@@ -1,4 +1,6 @@
-# JDR
+[jdr-ressources](https://franckfpro.github.io/jdr-ressources/)
+
+# Ressources externes
 
 - [donjon](https://donjon.bin.sh/)
 - [dés](https://desenligne.com)
@@ -8,10 +10,14 @@
 - [roll20](https://roll20.net/)
 - [minimalroleplay](https://minimalroleplay.com/)
 - [dndbeyond](https://www.dndbeyond.com/en)
-
----
-
 - [Chrysalis](https://www.shaan-world.com/)
 - [Ptolus](https://ptol.us/)
 - [Absalom](https://pathfinderwiki.com/wiki/Absalom)
 
+---
+tags:
+- #github-pages
+- #externes
+- #zettelkasten
+
+[[references]]
