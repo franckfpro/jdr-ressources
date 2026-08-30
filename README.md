@@ -14,10 +14,15 @@
 - [Ptolus](https://ptol.us/)
 - [Absalom](https://pathfinderwiki.com/wiki/Absalom)
 
+# [Ressources internes](ressources-internes.md)
+
+Lancer `listings.py` pour générer le fichier.
+
+[[ressources-internes]]
+
 ---
 tags:
 - #github-pages
-- #externes
 - #zettelkasten
 
 [[references]]
