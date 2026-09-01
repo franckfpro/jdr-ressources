@@ -3,7 +3,6 @@ id: "{{date:YYYYMMDDHHmm}}"
 type: moc
 tags:
   - moc
-  - domaine/sujet
 date_creation: "{{date}}"
 ---
 

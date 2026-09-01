@@ -20,3 +20,8 @@ date_creation: 2026-09-01
 - [Chrysalis](https://www.shaan-world.com/)
 - [Ptolus](https://ptol.us/)
 - [Absalom](https://pathfinderwiki.com/wiki/Absalom)
+
+---
+
+[[utilitaires]]
+[[references]]
