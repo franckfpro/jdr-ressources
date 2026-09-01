@@ -1,3 +1,15 @@
+---
+id: "202609011922"
+type: permanente
+statut: valide
+tags:
+  - D20
+  - utilitaire
+  - template
+date_creation: 2026-09-01
+---
+# tables-avancement
+
 Tables pour noter les événements d'une session et éventuellement y revenir pour développer l'histoire.
 
 | D20 | Personnages | Objets | Lieux | Objectifs | Autres |
@@ -24,10 +36,6 @@ Tables pour noter les événements d'une session et éventuellement y revenir po
 | 20  |             |        |       |           |        |
 
 ---
-tags:
-- #D20
-- #utilitaire 
-- #template
 
 [[utilitaires]]
 [[templates]]

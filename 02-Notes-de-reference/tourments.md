@@ -1,3 +1,29 @@
+---
+id: "202609011926"
+type: reference
+statut: valide
+tags:
+  - D6
+  - utilitaire
+  - reference
+  - solo
+date_creation: 2026-09-01
+---
+
+# tourments
+
+## Déclaration du concept
+<!-- Formule ici une seule idée claire, synthétique et autonome, rédigée avec tes propres mots. -->
+
+## Explication et Développement
+<!-- Développe l'idée de manière détaillée. Ajoute des exemples concrets, des extraits de code ou des raisonnements. -->
+
+```python
+# Exemple d'application ou de démonstration du concept
+def appliquer_concept(parametre: str) -> bool:
+    """Explication du traitement lié au concept."""
+    return True
+```
 Dans le **jeu de rôle solo** (JDR solo), un **tableau des tourments** (ou *table des malheurs*, *table des événements aléatoires*, etc.) est un outil essentiel pour introduire de l’imprévu, du drame ou des défis dans ton aventure. Voici à quoi il sert concrètement, avec des exemples pour bien comprendre :
 
 ---
@@ -81,11 +107,6 @@ Plus on avance dans l'histoire, plus des événements ont de chances d'être tir
 | 6         | 1   | 1   | 2   | 2   | 3   | 3   |
 
 ---
-tags:
-- #solo
-- #utilitaire
-- #D6
-- #reference
 
 [[utilitaires]]
 [[references]]

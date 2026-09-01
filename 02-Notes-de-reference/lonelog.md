@@ -1,3 +1,13 @@
+---
+id: "202609011924"
+type: reference
+statut: valide
+tags:
+  - utilitaire
+  - reference
+  - solo
+date_creation: 2026-09-01
+---
 # Prise de notes en JDR solo
 
 - @  pour les actions du joueur
@@ -42,5 +52,6 @@ remarqué. [L:Bibliothèque|sombre|calme]
 ````
 
 ---
-tags:
 
+[[utilitaires]]
+[[references]]

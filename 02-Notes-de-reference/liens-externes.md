@@ -1,3 +1,13 @@
+---
+id: "202609011928"
+type: reference
+statut: valide
+tags:
+  - utilitaire
+  - reference
+  - liens
+date_creation: 2026-09-01
+---
 
 - [donjon](https://donjon.bin.sh/)
 - [dés](https://desenligne.com)
@@ -10,4 +20,3 @@
 - [Chrysalis](https://www.shaan-world.com/)
 - [Ptolus](https://ptol.us/)
 - [Absalom](https://pathfinderwiki.com/wiki/Absalom)
-
