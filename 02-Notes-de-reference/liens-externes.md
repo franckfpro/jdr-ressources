@@ -16,6 +16,7 @@ date_creation: 2026-09-01
 - [syrinscape](https://syrinscape.com/)
 - [roll20](https://roll20.net/)
 - [minimalroleplay](https://minimalroleplay.com/)
+- [aidedd](https://www.aidedd.org/adj/outils/)
 - [dndbeyond](https://www.dndbeyond.com/en)
 - [Chrysalis](https://www.shaan-world.com/)
 - [Ptolus](https://ptol.us/)
