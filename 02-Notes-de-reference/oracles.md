@@ -11,7 +11,8 @@ date_creation: 2026-09-05
 ---
 # oracles
 
-### Très peu plausible
+## Très peu plausible
+
 | d20 | Résultat | Interprétation |
 |---|---|---|
 | 1-4 | Non, et... | Échec total, une complication grave survient. |
@@ -22,7 +23,8 @@ date_creation: 2026-09-05
 | 19 | Oui | L'action réussit comme prévu. |
 | 20 | Oui, et... | Réussite critique, un avantage inattendu s'ajoute. |
 
-### Peu plausible
+## Peu plausible
+
 | d20 | Résultat | Interprétation |
 |---|---|---|
 | 1-3 | Non, et... | Échec total, une complication grave survient. |
@@ -33,7 +35,8 @@ date_creation: 2026-09-05
 | 18-19 | Oui | L'action réussit comme prévu. |
 | 20 | Oui, et... | Réussite critique, un avantage inattendu s'ajoute. |
 
-### Neutre
+## Neutre
+
 | d20 | Résultat | Interprétation |
 |---|---|---|
 | 1-2 | Non, et... | Échec total, une complication grave survient. |
@@ -44,7 +47,8 @@ date_creation: 2026-09-05
 | 15-18 | Oui | L'action réussit comme prévu. |
 | 19-20 | Oui, et... | Réussite critique, un avantage inattendu s'ajoute. |
 
-### Plausible
+## Plausible
+
 | d20 | Résultat | Interprétation |
 |---|---|---|
 | 1 | Non, et... | Échec total, une complication grave survient. |
@@ -55,7 +59,8 @@ date_creation: 2026-09-05
 | 13-17 | Oui | L'action réussit comme prévu. |
 | 18-20 | Oui, et... | Réussite critique, un avantage inattendu s'ajoute. |
 
-### Très plausible
+## Très plausible
+
 | d20 | Résultat | Interprétation |
 |---|---|---|
 | 1 | Non, et... | Échec total, une complication grave survient. |
