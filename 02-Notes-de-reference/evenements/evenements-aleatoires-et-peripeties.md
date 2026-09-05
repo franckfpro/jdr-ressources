@@ -1,3 +1,12 @@
+---
+id: "202609051835"
+type: permanente
+statut: valide
+tags:
+  - D100
+  - evenement
+date_creation: 2026-09-05
+---
 # Événements Aléatoires et Péripéties
 
 | Jet (d100) | Description de l'événement |
@@ -22,3 +31,7 @@
 | 86-90 | **Manifestation du passé** : Un élément lié à votre historique ou à un ancien ennemi refait surface. |
 | 91-95 | **Vision ou pressentiment** : Vous subissez un rêve prophétique, un malaise ou une étrange réminiscence. |
 | 96-00 | **Rebondissement majeur** : La situation dérape complètement, modifiant l'objectif de la scène. |
+
+[[utilitaires]]
+[[references]]
+[[evenements]]

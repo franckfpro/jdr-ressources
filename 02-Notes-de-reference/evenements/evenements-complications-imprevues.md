@@ -1,3 +1,12 @@
+---
+id: "202609051834"
+type: permanente
+statut: valide
+tags:
+  - D100
+  - evenement
+date_creation: 2026-09-05
+---
 # Table des Complications Imprévues (d100)
 
 | Jet | Type de Complication | Effet direct sur la scène en cours |
@@ -12,3 +21,7 @@
 | 71-80 | Corruption du lieu | La zone devient dangereuse en elle-même (incendie qui se propage, radiations, zone de magie sauvage). |
 | 81-90 | Surmenage | L'effort exigé est tel que le personnage subit un malus immédiat de fatigue ou perd des points de vie. |
 | 91-100 | Secret révélé | L'action dévoile une vérité dérangeante qui modifie totalement l'objectif initial du scénario. |
+
+[[utilitaires]]
+[[references]]
+[[evenements]]

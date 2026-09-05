@@ -2,8 +2,7 @@
 id: "{{date:YYYYMMDDHHmm}}"
 type: ticket
 tags:
-  - kanban/ticket
-  - projet/nom
+  - placeholder
 date_creation: "{{date}}"
 statut: a-faire
 priorite: moyenne

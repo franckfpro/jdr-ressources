@@ -6,6 +6,7 @@ tags:
   - utilitaire
   - reference
   - solo
+  - ecriture
 date_creation: 2026-09-01
 ---
 # Prise de notes en JDR solo

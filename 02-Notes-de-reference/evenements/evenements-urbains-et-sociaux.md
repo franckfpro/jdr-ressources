@@ -1,3 +1,12 @@
+---
+id: "202609051830"
+type: permanente
+statut: valide
+tags:
+  - D100
+  - evenement
+date_creation: 2026-09-05
+---
 # Fiche d'Événements Urbains et Sociaux (d100)
 
 | Jet | Catégorie | Description détaillée de l'événement |
@@ -22,3 +31,7 @@
 | 86-90 | Erreur de livraison | Un messager confond l'identité du personnage et lui remet des documents ou données hautement confidentiels concernant une faction locale. |
 | 91-95 | Zélateurs | Un groupe de fanatiques encercle le personnage, exigeant une conversion immédiate, un don financier ou un test d'allégeance idéologique. |
 | 96-100 | Rencontre providentielle | Une figure d'autorité bienveillante ou un contact providentiel offre son aide, effaçant une dette ou soignant une blessure gratuitement. |
+
+[[utilitaires]]
+[[references]]
+[[evenements]]

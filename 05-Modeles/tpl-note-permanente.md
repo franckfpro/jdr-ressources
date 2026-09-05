@@ -3,10 +3,7 @@ id: "{{date:YYYYMMDDHHmm}}"
 type: permanente
 statut: valide
 tags:
-  - concept
-  - domaine
+  - placeholder
 date_creation: "{{date}}"
 ---
-
 # {{title}}
-

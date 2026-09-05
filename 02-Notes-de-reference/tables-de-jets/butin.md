@@ -1,3 +1,12 @@
+---
+id: "202609051828"
+type: permanente
+statut: valide
+tags:
+  - D100
+  - butin
+date_creation: 2026-09-05
+---
 # Butin
 
 | d100 | Butin | Description |
@@ -102,3 +111,6 @@
 | 98 | Bâtonnet d'encens onirique | Son odeur provoque des rêves prophétiques confus. |
 | 99 | Pépite d'or massif | De la taille d'une noix, brute et très lourde. |
 | 100 | Artefact scellé | Une boîte en fer couverte de runes brûlantes. L'ouvrir déclenche une quête. |
+
+[[utilitaires]]
+[[references]]

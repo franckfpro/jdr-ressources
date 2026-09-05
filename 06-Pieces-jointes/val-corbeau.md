@@ -1,3 +1,14 @@
+---
+id: "202609051809"
+type: permanente
+statut: valide
+tags:
+  - description
+  - lore
+  - lieux
+  - personnage
+date_creation: 2026-09-05
+---
 # La Cité-État de Val-Corbeau et ses Marches
 
 ## 1. Histoire et Origines
@@ -57,3 +68,5 @@ Val-Corbeau est un bastion neutre, un point de tension permanent entre deux supe
 *   **Description:** Nain massif à la barbe tressée d'or et de câbles d'acier, maniant un lourd marteau de forge.
 *   **Motivations:** Forer toujours plus profondément pour trouver le "Cœur d'Étoile", le météore originel qui a créé les filons, afin de forger l'arme absolue pour son peuple.
 *   **Secret:** Ses équipes de minage ont accidentellement percé une antique prison souterraine il y a un mois. Les créatures qui s'en échappent déciment ses mineurs, mais Gromik dissimule le massacre au Conseil pour éviter que les puits ne soient scellés.
+
+[[descriptions]]

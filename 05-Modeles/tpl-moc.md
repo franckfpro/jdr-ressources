@@ -3,6 +3,7 @@ id: "{{date:YYYYMMDDHHmm}}"
 type: moc
 tags:
   - moc
+  - index
 date_creation: "{{date}}"
 ---
 
@@ -32,3 +33,4 @@ SORT file.mtime DESC
 
 ```
 
+[[README]]

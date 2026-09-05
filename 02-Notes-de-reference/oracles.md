@@ -1,3 +1,16 @@
+---
+id: "202609051818"
+type: permanente
+statut: valide
+tags:
+  - D20
+  - solo
+  - reference
+  - utilitaire
+date_creation: 2026-09-05
+---
+# oracles
+
 ### Très peu plausible
 | d20 | Résultat | Interprétation |
 |---|---|---|
@@ -52,3 +65,6 @@
 | 6-9 | Oui, mais... | Réussite, mais avec un coût, des dégâts ou un compromis. |
 | 10-16 | Oui | L'action réussit comme prévu. |
 | 17-20 | Oui, et... | Réussite critique, un avantage inattendu s'ajoute. |
+
+[[utilitaires]]
+[[references]]

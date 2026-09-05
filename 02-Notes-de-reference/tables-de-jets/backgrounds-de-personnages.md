@@ -1,3 +1,13 @@
+---
+id: "202609051828"
+type: permanente
+statut: valide
+tags:
+  - D100
+  - inspiration
+  - personnage
+date_creation: 2026-09-05
+---
 # Backgrounds de perso
 
 ## Backgrounds communs
@@ -125,3 +135,7 @@
 | **99** | **Faveur divine.** Il y a longtemps, votre mère a sacrifié sa vie pour aider un dieu ou toute autre entité puissante. Cette entité considère aujourd'hui qu’elle a une dette envers vous, en tant qu’héritier de votre mère. Un jour, il vous remboursera. |
 | **100** | **Parents divins.** Vous êtes le fruit de l'union entre un mortel et un dieu. Bien que vous ayez peu, voire pas du tout, hérité des pouvoirs de votre parent divin, vous vous sentez destiné à une vie meilleure et peut-être pensez-vous que vous méritez une place à ses côtés. Cependant, ce parent n’est pas très enclin à vous accepter parmi ceux de son genre, et il vous voit peut-être même comme une menace potentielle. |
 
+
+[[utilitaires]]
+[[references]]
+[[personnages]]

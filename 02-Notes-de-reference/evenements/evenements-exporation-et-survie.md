@@ -1,3 +1,12 @@
+---
+id: "202609051833"
+type: permanente
+statut: valide
+tags:
+  - D100
+  - evenement
+date_creation: 2026-09-05
+---
 # Fiche d'Exploration et Survie (d100)
 
 | Jet | Catégorie | Description détaillée de l'événement |
@@ -22,3 +31,7 @@
 | 86-90 | Cachette oubliée | Un renfoncement discret dissimule un ancien campement. Il contient des provisions basiques encore consommables et un plan griffonné. |
 | 91-95 | Sauvetage animal | Une créature locale non-intelligente est prise au piège. La libérer sans la blesser en fait un compagnon de route temporaire. |
 | 96-100 | Point d'observation | Une position surélevée offre une vue imprenable sur la région. Permet de cartographier la suite du voyage et d'éviter la prochaine rencontre hostile. |
+
+[[utilitaires]]
+[[references]]
+[[evenements]]

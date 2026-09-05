@@ -1,3 +1,12 @@
+---
+id: "202609051832"
+type: permanente
+statut: valide
+tags:
+  - D20
+  - evenement
+date_creation: 2026-09-05
+---
 # Résolutions
 
 | d20 | Mécanisme de résolution | Effet narratif et mécanique |
@@ -22,3 +31,7 @@
 | 18 | Anesthésie affective | Vous verrouillez totalement vos ressentis, agissant temporairement comme un automate sans pitié. |
 | 19 | Échange de focalisation | Porter assistance à quelqu'un d'autre détourne efficacement l'attention de votre propre souffrance. |
 | 20 | Clarté foudroyante | La crise se dissout dans une illumination tactique: vous obtenez un avantage immédiat sur la situation. |
+
+[[utilitaires]]
+[[references]]
+[[evenements]]

@@ -1,3 +1,12 @@
+---
+id: "202609051825"
+type: permanente
+statut: valide
+tags:
+  - D100
+  - divinite
+date_creation: 2026-09-05
+---
 # Divinités mineures
 
 | Jet (d100) | Divinité                                                                                                                                      | Description                                                                                                                                                                                                                                                                                                                                                       |
@@ -102,3 +111,6 @@
 | 98         | L'Ordonnance Finale - Dieu des Lois Votées le Dernier Jour Avant l'Effondrement d'un Gouvernement                                             | Un bureaucrate tamponnant des documents avec une grande efficacité pendant que le bâtiment brûle derrière lui. Les tampons sont parfaitement lisibles.                                                                                                                                                                                                            |
 | 99         | Bozenka la Sanglante - Patronne des Bouchers et des Violeurs                                                                                  | On dit qu'elle n'a pas d'avatar - parce qu'à l'instant où elle en crée un, elle l'assassine. Elle considère qu'il s'agit d'un arrangement raisonnable.                                                                                                                                                                                                            |
 | 100        | Brekk - Dieu des Choses Qui Sont Toujours la Faute de Quelqu'un Même Si Tout le Monde a Accepté de Passer À Autre Chose                       | Un homme pointant du doigt quelqu'un qui a déjà quitté la pièce, dans une maison où personne n'écoute, à une fête qui s'est terminée il y a des heures.                                                                                                                                                                                                           |
+
+[[utilitaires]]
+[[references]]

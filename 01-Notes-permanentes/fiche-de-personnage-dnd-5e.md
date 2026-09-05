@@ -1,3 +1,13 @@
+---
+id: "202609051813"
+type: permanente
+statut: valide
+tags:
+  - personnage
+  - template
+  - dungeons-and-dragons
+date_creation: 2026-09-05
+---
 # Fiche de Personnage - Dungeons et Dragons 5e
 
 **Nom du personnage:** [Nom]
@@ -106,3 +116,6 @@
 *Capacités et Traits supplémentaires:*
 *   [Capacité de classe 1]
 *   [Capacité raciale 1]
+
+[[templates]]
+[[personnages]]

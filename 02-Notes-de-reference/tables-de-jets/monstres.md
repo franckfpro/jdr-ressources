@@ -1,3 +1,12 @@
+---
+id: "202609051825"
+type: permanente
+statut: valide
+tags:
+  - D100
+  - monstre
+date_creation: 2026-09-05
+---
 # Monstres
 
 | d100 | Créature | Description |
@@ -102,3 +111,6 @@
 | 98 | Démon de la fosse | Un général infernal maniant la magie du feu et une masse d'armes dévastatrice. |
 | 99 | Ver des glaces ancestral | Un monstre millénaire gelant le sang de ses proies d'un simple souffle. |
 | 100 | Dragon noir adulte | Un seigneur des marais perfide dont le souffle acide dissout les armures et la chair. |
+
+[[utilitaires]]
+[[references]]

@@ -1,3 +1,12 @@
+---
+id: "202609051827"
+type: permanente
+statut: valide
+tags:
+  - D100
+  - lieux
+date_creation: 2026-09-05
+---
 # Description de Lieux (Atmosphère et État)
 
 | Jet (d100) | Description (Atmosphère, état ou trait marquant) |
@@ -52,3 +61,7 @@
 | 95-96 | Sauvage / Repris par la nature |
 | 97-98 | Maléfique / Oppressant |
 | 99-00 | Hors du temps / Surnaturel |
+
+[[utilitaires]]
+[[references]]
+[[inspirations]]

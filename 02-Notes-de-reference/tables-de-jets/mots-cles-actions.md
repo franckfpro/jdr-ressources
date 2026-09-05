@@ -1,3 +1,14 @@
+---
+id: "202609051824"
+type: permanente
+statut: valide
+tags:
+  - D100
+  - inspiration
+  - solo
+  - action
+date_creation: 2026-09-05
+---
 # Actions
 
 | d100 | Action |
@@ -102,3 +113,4 @@
 | 98 | Séduire |
 | 99 | Trahir |
 | 100 | Venger |
+[[inspirations]]

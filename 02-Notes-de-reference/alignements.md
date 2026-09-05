@@ -1,3 +1,13 @@
+---
+id: "202609051819"
+type: permanente
+statut: valide
+tags:
+  - reference
+  - personnage
+  - utilitaire
+date_creation: 2026-09-05
+---
 # Grille des alignements (Axe Éthique et Axe Moral)
 
 | | Bon (Good) | Neutre (Neutral) | Mauvais (Evil) |
@@ -19,3 +29,7 @@
 | **Loyal Mauvais** | Lawful Evil | Exploite les lois, le système et l'ordre pour son propre profit, avec méthode. |
 | **Neutre Mauvais** | Neutral Evil | Totalement égoïste, fait tout ce qu'il peut pour arriver à ses fins sans code d'honneur. |
 | **Chaotique Mauvais** | Chaotic Evil | Poussé par la destruction, la cruauté, la haine et la pure imprévisibilité. |
+
+[[utilitaires]]
+[[references]]
+[[personnages]]

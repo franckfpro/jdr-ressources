@@ -1,3 +1,13 @@
+---
+id: "202609051822"
+type: permanente
+statut: valide
+tags:
+  - D100
+  - inspiration
+  - solo
+date_creation: 2026-09-05
+---
 # Thèmes et Sujets
 
 | d100 | Thème |
@@ -102,3 +112,4 @@
 | 98 | Sang |
 | 99 | Tombeau |
 | 100 | Village |
+[[inspirations]]

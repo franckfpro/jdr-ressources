@@ -1,3 +1,13 @@
+---
+id: "202609051823"
+type: permanente
+statut: valide
+tags:
+  - D20
+  - solo
+  - inspiration
+date_creation: 2026-09-05
+---
 # Mots-clés d'Action
 
 | d20 | Action (1-10) | d20 | Action (11-20) |
@@ -42,4 +52,4 @@
 | 8 | Pur / Sain | 18 | Sombre / Obscur |
 | 9 | Caché / Invisible | 19 | Précieux / Rare |
 | 10 | Évident / Visible | 20 | Inutile / Maudit |
-
+[[inspirations]]

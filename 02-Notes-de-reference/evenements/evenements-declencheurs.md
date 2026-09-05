@@ -1,3 +1,12 @@
+---
+id: "202609051833"
+type: permanente
+statut: valide
+tags:
+  - D20
+  - evenement
+date_creation: 2026-09-05
+---
 # Déclencheurs
 
 | d20 | Déclencheur | Condition d'activation |
@@ -22,3 +31,7 @@
 | 18 | Vulnérabilité totale | Vous êtes pris en embuscade à l'instant précis où vous baissiez votre garde. |
 | 19 | Symbole oppressant | Vous apercevez l'emblème d'une faction, d'une divinité ou d'une guilde que vous fuyez. |
 | 20 | Calme plat | Le danger disparaît brutalement, laissant le silence amplifier vos pensées intrusives. |
+
+[[utilitaires]]
+[[references]]
+[[evenements]]

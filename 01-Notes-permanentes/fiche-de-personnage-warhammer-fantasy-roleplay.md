@@ -1,3 +1,13 @@
+---
+id: "202609051811"
+type: permanente
+statut: valide
+tags:
+  - personnage
+  - template
+  - warhammer
+date_creation: 2026-09-05
+---
 # Fiche de Personnage - Warhammer Fantasy Roleplay
 
 ## Identité
@@ -68,3 +78,6 @@
 * Ambitions à long terme: [Objectif de vie majeur]
 * Membres du groupe: [Relations avec les autres personnages]
 * Passé et Origine: [Détails sur l'histoire personnelle avant de devenir aventurier]
+
+[[templates]]
+[[personnages]]

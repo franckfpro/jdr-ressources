@@ -1,3 +1,14 @@
+---
+id: "202609051827"
+type: permanente
+statut: valide
+tags:
+  - D100
+  - inspiration
+  - solo
+  - personnage
+date_creation: 2026-09-05
+---
 # Description de Personnages (Apparence et Trait)
 
 | Jet (d100) | Description (Apparence, attitude ou trait distinctif) |
@@ -52,3 +63,8 @@
 | 95-96 | Il manque un membre |
 | 97-98 | Respire bruyamment |
 | 99-00 | Aura magique / Surnaturelle |
+
+[[utilitaires]]
+[[references]]
+[[personnages]]
+[[inspirations]]

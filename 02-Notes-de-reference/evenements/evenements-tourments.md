@@ -1,3 +1,12 @@
+---
+id: "202609051831"
+type: permanente
+statut: valide
+tags:
+  - D20
+  - evenement
+date_creation: 2026-09-05
+---
 # Tourments
 
 | d20 | Tourment | Impact narratif |
@@ -22,3 +31,7 @@
 | 18 | Paranoïa justifiée: le complot | Vous suspectez chaque allié, ce qui rend les alliances durables presque impossibles. |
 | 19 | Vide émotionnel | Votre incapacité à ressentir l'empathie complique gravement la lecture des intentions d'autrui. |
 | 20 | Identité fracturée | Une autre personnalité sombre prend le contrôle lors des moments de désespoir absolu. |
+
+[[utilitaires]]
+[[references]]
+[[evenements]]

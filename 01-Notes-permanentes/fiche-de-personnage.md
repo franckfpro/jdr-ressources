@@ -1,3 +1,12 @@
+---
+id: "202609051813"
+type: permanente
+statut: valide
+tags:
+  - personnage
+  - template
+date_creation: 2026-09-05
+---
 # Fiche de Personnage
 
 ## Identité
@@ -48,3 +57,5 @@
 * Défauts: [Faiblesses ou phobies]
 * Biographie: [Résumé de son passé et de ses objectifs]
 
+[[templates]]
+[[personnages]]
