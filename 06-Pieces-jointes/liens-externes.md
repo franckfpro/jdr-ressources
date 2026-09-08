@@ -18,6 +18,11 @@ date_creation: 2026-09-01
 - [minimalroleplay](https://minimalroleplay.com/)
 - [aidedd](https://www.aidedd.org/adj/outils/)
 - [dndbeyond](https://www.dndbeyond.com/en)
+- [game-master-apprentice](https://jamesturneronline.net/game-masters-apprentice/)
+- [generateur-cartes](https://watabou.github.io/index.html)
+
+---
+
 - [Chrysalis](https://www.shaan-world.com/)
 - [Ptolus](https://ptol.us/)
 - [Absalom](https://pathfinderwiki.com/wiki/Absalom)
