@@ -3,5 +3,8 @@
   "newFileLocation": "folder",
   "newFileFolderPath": "00-Boite-de-reception",
   "promptDelete": false,
-  "alwaysUpdateLinks": true
+  "alwaysUpdateLinks": true,
+  "showLineNumber": false,
+  "readableLineLength": false,
+  "showInlineTitle": false
 }

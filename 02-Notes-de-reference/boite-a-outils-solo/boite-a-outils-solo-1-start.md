@@ -1,3 +1,12 @@
+---
+id: "202609111953"
+type: permanente
+statut: valide
+tags:
+  - solo
+  - boite-a-outils
+date_creation: 2026-09-11
+---
 # Boîte à outils JDR Solo: START
 
 Le premier outil est le rituel solo, une boucle de jeu répétable qui vous guide scène par scène tout au long de vos sessions en solo. Il structure votre aventure, introduit des défis et fait progresser l'histoire. À force de pratiquer ce rituel, il deviendra une habitude familière qui rendra le jeu solo rapide, intuitif et agréable. Et les étapes forment même un acronyme !

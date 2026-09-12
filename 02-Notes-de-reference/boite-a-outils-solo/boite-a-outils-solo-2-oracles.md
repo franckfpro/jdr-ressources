@@ -1,8 +1,19 @@
+---
+id: "202609111952"
+type: permanente
+statut: valide
+tags:
+  - solo
+  - boite-a-outils
+date_creation: 2026-09-11
+---
 # Boîte à outils Solo: Les Oracles Oui/Non
 
 ## Qu'est-ce qu'un Oracle Oui/Non ?
 
 Lorsque vous jouez à un JDR en solo, vous n'avez pas de MJ pour répondre à vos questions ou introduire des surprises. Un oracle Oui/Non est un outil qui vous aide à répondre à ces interrogations. Vous pourriez lancer une pièce de monnaie (pile pour OUI, face pour NON), mais je vous recommande d'utiliser ce tableau :
+
+[[oracles]]
 
 | Lancer de d6 | Résultat |
 | --- | --- |
@@ -17,11 +28,9 @@ Lorsque vous jouez à un JDR en solo, vous n'avez pas de MJ pour répondre à vo
 
 1. **Posez une question** exactement comme vous le feriez à un MJ. Si la réponse peut bénéficier au personnage, formulez-la de manière à ce que le « Oui » représente une issue positive. Par exemple, demandez *« Est-ce que le garde dort ? »* plutôt que *« Est-ce que le garde est réveillé ? »*.
 2. **Évaluez la probabilité** de ce résultat positif en fonction de la situation actuelle :
-* Si c'est **probable**, lancez deux dés et conservez le **meilleur** résultat.
-* Si c'est **improbable**, conservez le **moins bon** résultat.
-* Si les chances sont **équilibrées**, lancez un seul dé.
-
-
+	* Si c'est **probable**, lancez deux dés et conservez le **meilleur** résultat.
+	* Si c'est **improbable**, conservez le **moins bon** résultat.
+	* Si les chances sont **équilibrées**, lancez un seul dé.
 3. **Consultez le tableau.** Si vous obtenez une réponse nuancée (un *« Oui, mais... »* ou un *« Non, et... »*), utilisez le contexte immédiat de la scène pour improviser le rebondissement ou la conséquence spécifique.
 
 ## Types de questions
