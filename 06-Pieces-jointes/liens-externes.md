@@ -31,6 +31,10 @@ date_creation: 2026-09-01
 
 ---
 
+- [scenariotheque (Scenarios de jeux de roles)](https://www.scenariotheque.org/)
+
+---
+
 - [Chrysalis (editeur) - fre](https://www.shaan-world.com/)
 - [Ptolus (editeur) - eng](https://ptol.us/)
 - [Cairn (editeur) - eng](https://cairnrpg.com/)
@@ -38,6 +42,8 @@ date_creation: 2026-09-01
 - [itch.io (bibliotheque)](https://itch.io/physical-games/tag-solo-rpg)
 
 ---
+
+- [Glossaire](https://fr.wikipedia.org/wiki/Glossaire_du_jeu_de_r%C3%B4le)
 
 [[utilitaires]]
 [[references]]
