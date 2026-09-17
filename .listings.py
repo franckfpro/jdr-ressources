@@ -17,7 +17,7 @@ def generer_references_internes():
                 chemin_relatif = os.path.relpath(os.path.join(racine, fichier), start=dossier)
 
                 if extension.lower() == '.md':
-                    ligne = f"| [{nom}]({chemin_relatif}) | [[{nom}]] |\n"
+                    ligne = f"| [{chemin_relatif}]({chemin_relatif}) | [[{nom}]] |\n"
                 elif extension.lower() in ('.png', '.jpg', '.jpeg', '.gif', '.pdf'):
                     ligne = f"| [{fichier}]({chemin_relatif}) | ![[{nom}]] |\n"
                 else:
