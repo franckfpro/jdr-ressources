@@ -4,6 +4,7 @@
 |------|--------|
 | [README.md](README.md) | [[README]] |
 | [01-Notes-permanentes/fiche-de-personnage-dnd-5e.md](01-Notes-permanentes/fiche-de-personnage-dnd-5e.md) | [[fiche-de-personnage-dnd-5e]] |
+| [01-Notes-permanentes/fiche-de-personnage-ironsworn.md](01-Notes-permanentes/fiche-de-personnage-ironsworn.md) | [[fiche-de-personnage-ironsworn]] |
 | [01-Notes-permanentes/fiche-de-personnage-warhammer-fantasy-roleplay.md](01-Notes-permanentes/fiche-de-personnage-warhammer-fantasy-roleplay.md) | [[fiche-de-personnage-warhammer-fantasy-roleplay]] |
 | [01-Notes-permanentes/fiche-de-personnage.md](01-Notes-permanentes/fiche-de-personnage.md) | [[fiche-de-personnage]] |
 | [01-Notes-permanentes/tables-avancement.md](01-Notes-permanentes/tables-avancement.md) | [[tables-avancement]] |
@@ -11,6 +12,7 @@
 | [02-Notes-de-reference/boite-a-outils-solo/boite-a-outils-solo-1-start.md](02-Notes-de-reference/boite-a-outils-solo/boite-a-outils-solo-1-start.md) | [[boite-a-outils-solo-1-start]] |
 | [02-Notes-de-reference/boite-a-outils-solo/boite-a-outils-solo-2-oracles.md](02-Notes-de-reference/boite-a-outils-solo/boite-a-outils-solo-2-oracles.md) | [[boite-a-outils-solo-2-oracles]] |
 | [02-Notes-de-reference/boite-a-outils-solo/boite-a-outils-solo-3-spark.md](02-Notes-de-reference/boite-a-outils-solo/boite-a-outils-solo-3-spark.md) | [[boite-a-outils-solo-3-spark]] |
+| [02-Notes-de-reference/boite-a-outils-solo/lonelog.md](02-Notes-de-reference/boite-a-outils-solo/lonelog.md) | [[lonelog]] |
 | [02-Notes-de-reference/evenements/evenements-aleatoires-et-peripeties.md](02-Notes-de-reference/evenements/evenements-aleatoires-et-peripeties.md) | [[evenements-aleatoires-et-peripeties]] |
 | [02-Notes-de-reference/evenements/evenements-complications-imprevues.md](02-Notes-de-reference/evenements/evenements-complications-imprevues.md) | [[evenements-complications-imprevues]] |
 | [02-Notes-de-reference/evenements/evenements-declencheurs.md](02-Notes-de-reference/evenements/evenements-declencheurs.md) | [[evenements-declencheurs]] |
@@ -18,6 +20,7 @@
 | [02-Notes-de-reference/evenements/evenements-resolutions.md](02-Notes-de-reference/evenements/evenements-resolutions.md) | [[evenements-resolutions]] |
 | [02-Notes-de-reference/evenements/evenements-tourments.md](02-Notes-de-reference/evenements/evenements-tourments.md) | [[evenements-tourments]] |
 | [02-Notes-de-reference/evenements/evenements-urbains-et-sociaux.md](02-Notes-de-reference/evenements/evenements-urbains-et-sociaux.md) | [[evenements-urbains-et-sociaux]] |
+| [02-Notes-de-reference/improvisation.md](02-Notes-de-reference/improvisation.md) | [[improvisation]] |
 | [02-Notes-de-reference/oracles.md](02-Notes-de-reference/oracles.md) | [[oracles]] |
 | [02-Notes-de-reference/tables-de-jets/backgrounds-de-personnages.md](02-Notes-de-reference/tables-de-jets/backgrounds-de-personnages.md) | [[backgrounds-de-personnages]] |
 | [02-Notes-de-reference/tables-de-jets/butin.md](02-Notes-de-reference/tables-de-jets/butin.md) | [[butin]] |
@@ -37,7 +40,6 @@
 | [03-Index-et-MOC/references.md](03-Index-et-MOC/references.md) | [[references]] |
 | [03-Index-et-MOC/templates.md](03-Index-et-MOC/templates.md) | [[templates]] |
 | [03-Index-et-MOC/utilitaires.md](03-Index-et-MOC/utilitaires.md) | [[utilitaires]] |
-| [04-Projets-actifs/lonelog.md](04-Projets-actifs/lonelog.md) | [[lonelog]] |
 | [05-Modeles/tpl-kanban.md](05-Modeles/tpl-kanban.md) | [[tpl-kanban]] |
 | [05-Modeles/tpl-moc.md](05-Modeles/tpl-moc.md) | [[tpl-moc]] |
 | [05-Modeles/tpl-note-permanente.md](05-Modeles/tpl-note-permanente.md) | [[tpl-note-permanente]] |
@@ -77,7 +79,6 @@
 | [EN_GM20240523.pdf](06-Pieces-jointes/rules/FFxiv/EN_GM20240523.pdf) | ![[EN_GM20240523]] |
 | [EN_PL20240523.pdf](06-Pieces-jointes/rules/FFxiv/EN_PL20240523.pdf) | ![[EN_PL20240523]] |
 | [FR_SRD_CC_v5.2.1.pdf](06-Pieces-jointes/rules/Dungeons-and-Dragons/FR_SRD_CC_v5.2.1.pdf) | ![[FR_SRD_CC_v5.2.1]] |
-| [FeuillePersoDD2024.pdf](06-Pieces-jointes/rules/Dungeons-and-Dragons/FeuillePersoDD2024.pdf) | ![[FeuillePersoDD2024]] |
 | [Frozen Sick - Wildemount Adventure - Dungeons & Dragons - Sources - D&D Beyond.pdf](06-Pieces-jointes/rules/Dungeons-and-Dragons/Frozen Sick - Wildemount Adventure - Dungeons & Dragons - Sources - D&D Beyond.pdf) | ![[Frozen Sick - Wildemount Adventure - Dungeons & Dragons - Sources - D&D Beyond]] |
 | [GD5e.pdf](06-Pieces-jointes/rules/Dungeons-and-Dragons/GD5e.pdf) | ![[GD5e]] |
 | [GODS-Feuille-dElu.pdf](06-Pieces-jointes/rules/GODS/GODS-Feuille-dElu.pdf) | ![[GODS-Feuille-dElu]] |
@@ -85,21 +86,14 @@
 | [GODS-Terres_Sauvages-Carte.pdf](06-Pieces-jointes/rules/GODS/GODS-Terres_Sauvages-Carte.pdf) | ![[GODS-Terres_Sauvages-Carte]] |
 | [GODS_Kit-de-decouverte_1.3.pdf](06-Pieces-jointes/rules/GODS/GODS_Kit-de-decouverte_1.3.pdf) | ![[GODS_Kit-de-decouverte_1.3]] |
 | [Glossaire.pdf](06-Pieces-jointes/rules/Dungeons-and-Dragons/Glossaire.pdf) | ![[Glossaire]] |
-| [Ironsworn-Actions-resume.pdf](06-Pieces-jointes/rules/Ironsworn-FR/Ironsworn-Actions-resume.pdf) | ![[Ironsworn-Actions-resume]] |
 | [Ironsworn-Assets-Printable.pdf](06-Pieces-jointes/rules/Ironsworn/Ironsworn-Assets-Printable.pdf) | ![[Ironsworn-Assets-Printable]] |
-| [Ironsworn-Atouts-cartes-rectoversoA4.pdf](06-Pieces-jointes/rules/Ironsworn-FR/Ironsworn-Atouts-cartes-rectoversoA4.pdf) | ![[Ironsworn-Atouts-cartes-rectoversoA4]] |
 | [Ironsworn-Delve-Cards.pdf](06-Pieces-jointes/rules/Ironsworn-Delve/Ironsworn-Delve-Cards.pdf) | ![[Ironsworn-Delve-Cards]] |
 | [Ironsworn-Delve-Moves-Reference.pdf](06-Pieces-jointes/rules/Ironsworn-Delve/Ironsworn-Delve-Moves-Reference.pdf) | ![[Ironsworn-Delve-Moves-Reference]] |
 | [Ironsworn-Delve-Rulebook-Free-Preview.pdf](06-Pieces-jointes/rules/Ironsworn-Delve/Ironsworn-Delve-Rulebook-Free-Preview.pdf) | ![[Ironsworn-Delve-Rulebook-Free-Preview]] |
 | [Ironsworn-Delve-Site-Worksheet.pdf](06-Pieces-jointes/rules/Ironsworn-Delve/Ironsworn-Delve-Site-Worksheet.pdf) | ![[Ironsworn-Delve-Site-Worksheet]] |
-| [Ironsworn-Feuille-Personnage.pdf](06-Pieces-jointes/rules/Ironsworn-FR/Ironsworn-Feuille-Personnage.pdf) | ![[Ironsworn-Feuille-Personnage]] |
-| [Ironsworn-Jauges-progres.pdf](06-Pieces-jointes/rules/Ironsworn-FR/Ironsworn-Jauges-progres.pdf) | ![[Ironsworn-Jauges-progres]] |
 | [Ironsworn-Landscape-Character-Sheet.pdf](06-Pieces-jointes/rules/Ironsworn/Ironsworn-Landscape-Character-Sheet.pdf) | ![[Ironsworn-Landscape-Character-Sheet]] |
 | [Ironsworn-Monde.pdf](06-Pieces-jointes/rules/Ironsworn-FR/Ironsworn-Monde.pdf) | ![[Ironsworn-Monde]] |
-| [Ironsworn-Oracles-creation.pdf](06-Pieces-jointes/rules/Ironsworn-FR/Ironsworn-Oracles-creation.pdf) | ![[Ironsworn-Oracles-creation]] |
 | [Ironsworn-Playkit.pdf](06-Pieces-jointes/rules/Ironsworn/Ironsworn-Playkit.pdf) | ![[Ironsworn-Playkit]] |
-| [Ironsworn-Regles-resume.pdf](06-Pieces-jointes/rules/Ironsworn-FR/Ironsworn-Regles-resume.pdf) | ![[Ironsworn-Regles-resume]] |
-| [Ironsworn-Rulebook-Spreads.pdf](06-Pieces-jointes/rules/Ironsworn/Ironsworn-Rulebook-Spreads.pdf) | ![[Ironsworn-Rulebook-Spreads]] |
 | [Ironsworn-Rulebook.pdf](06-Pieces-jointes/rules/Ironsworn/Ironsworn-Rulebook.pdf) | ![[Ironsworn-Rulebook]] |
 | [Ironsworn-Rules-Summary.pdf](06-Pieces-jointes/rules/Ironsworn/Ironsworn-Rules-Summary.pdf) | ![[Ironsworn-Rules-Summary]] |
 | [Ironsworn-SRD_VF.pdf](06-Pieces-jointes/rules/Ironsworn-FR/Ironsworn-SRD_VF.pdf) | ![[Ironsworn-SRD_VF]] |
@@ -110,9 +104,7 @@
 | [Ironsworn-Starforged-Rules-Summary.pdf](06-Pieces-jointes/rules/Ironsworn-Starforged/Ironsworn-Starforged-Rules-Summary.pdf) | ![[Ironsworn-Starforged-Rules-Summary]] |
 | [Ironsworn-Starforged-Truths-Workbook.pdf](06-Pieces-jointes/rules/Ironsworn-Starforged/Ironsworn-Starforged-Truths-Workbook.pdf) | ![[Ironsworn-Starforged-Truths-Workbook]] |
 | [Ironsworn-VF-Cartes-planches-A4-2026.pdf](06-Pieces-jointes/rules/Ironsworn-FR/Ironsworn-VF-Cartes-planches-A4-2026.pdf) | ![[Ironsworn-VF-Cartes-planches-A4-2026]] |
-| [Ironsworn-VF-Fiche-de-personnage-2026-07.pdf](06-Pieces-jointes/rules/Ironsworn-FR/Ironsworn-VF-Fiche-de-personnage-2026-07.pdf) | ![[Ironsworn-VF-Fiche-de-personnage-2026-07]] |
 | [Ironsworn-VF-Materiel-de-jeu-2026-07.pdf](06-Pieces-jointes/rules/Ironsworn-FR/Ironsworn-VF-Materiel-de-jeu-2026-07.pdf) | ![[Ironsworn-VF-Materiel-de-jeu-2026-07]] |
-| [Ironsworn-VF-Resume-des-regles-2026-07.pdf](06-Pieces-jointes/rules/Ironsworn-FR/Ironsworn-VF-Resume-des-regles-2026-07.pdf) | ![[Ironsworn-VF-Resume-des-regles-2026-07]] |
 | [Ironsworn-VF_2020-relu.pdf](06-Pieces-jointes/rules/Ironsworn-FR/Ironsworn-VF_2020-relu.pdf) | ![[Ironsworn-VF_2020-relu]] |
 | [Ironsworn-World-Workbook.pdf](06-Pieces-jointes/rules/Ironsworn/Ironsworn-World-Workbook.pdf) | ![[Ironsworn-World-Workbook]] |
 | [MUNE - The Homebrewery.pdf](06-Pieces-jointes/rules/Dungeons-and-Dragons/MUNE - The Homebrewery.pdf) | ![[MUNE - The Homebrewery]] |
@@ -142,11 +134,11 @@
 | [SRB_EN_summary_sheet_DLC.pdf](06-Pieces-jointes/rules/FFxiv/SRB_EN_summary_sheet_DLC.pdf) | ![[SRB_EN_summary_sheet_DLC]] |
 | [Sablewood-05-20-25.pdf](06-Pieces-jointes/rules/DaggerHeart/Sablewood-05-20-25.pdf) | ![[Sablewood-05-20-25]] |
 | [SoloJournalingWorksheet.pdf](06-Pieces-jointes/rules/Mythic-Game-Master-Emulator/SoloJournalingWorksheet.pdf) | ![[SoloJournalingWorksheet]] |
-| [Sundered-Isles-Assets-Sheets.pdf](06-Pieces-jointes/rules/Sundered-Isles/Sundered-Isles-Assets-Sheets.pdf) | ![[Sundered-Isles-Assets-Sheets]] |
-| [Sundered-Isles-Illustrated-Character-Sheet.pdf](06-Pieces-jointes/rules/Sundered-Isles/Sundered-Isles-Illustrated-Character-Sheet.pdf) | ![[Sundered-Isles-Illustrated-Character-Sheet]] |
-| [Sundered-Isles-Playkit.pdf](06-Pieces-jointes/rules/Sundered-Isles/Sundered-Isles-Playkit.pdf) | ![[Sundered-Isles-Playkit]] |
-| [Sundered-Isles-Sampler.pdf](06-Pieces-jointes/rules/Sundered-Isles/Sundered-Isles-Sampler.pdf) | ![[Sundered-Isles-Sampler]] |
-| [Sundered-Isles-Truths-Workbook.pdf](06-Pieces-jointes/rules/Sundered-Isles/Sundered-Isles-Truths-Workbook.pdf) | ![[Sundered-Isles-Truths-Workbook]] |
+| [Sundered-Isles-Assets-Sheets.pdf](06-Pieces-jointes/rules/Ironsworn-Sundered-Isles/Sundered-Isles-Assets-Sheets.pdf) | ![[Sundered-Isles-Assets-Sheets]] |
+| [Sundered-Isles-Illustrated-Character-Sheet.pdf](06-Pieces-jointes/rules/Ironsworn-Sundered-Isles/Sundered-Isles-Illustrated-Character-Sheet.pdf) | ![[Sundered-Isles-Illustrated-Character-Sheet]] |
+| [Sundered-Isles-Playkit.pdf](06-Pieces-jointes/rules/Ironsworn-Sundered-Isles/Sundered-Isles-Playkit.pdf) | ![[Sundered-Isles-Playkit]] |
+| [Sundered-Isles-Sampler.pdf](06-Pieces-jointes/rules/Ironsworn-Sundered-Isles/Sundered-Isles-Sampler.pdf) | ![[Sundered-Isles-Sampler]] |
+| [Sundered-Isles-Truths-Workbook.pdf](06-Pieces-jointes/rules/Ironsworn-Sundered-Isles/Sundered-Isles-Truths-Workbook.pdf) | ![[Sundered-Isles-Truths-Workbook]] |
 | [Thread-Progress-Tracks.pdf](06-Pieces-jointes/rules/Mythic-Game-Master-Emulator/Thread-Progress-Tracks.pdf) | ![[Thread-Progress-Tracks]] |
 | [WEB_EN_FAQ_GMG_20260218.pdf](06-Pieces-jointes/rules/FFxiv/WEB_EN_FAQ_GMG_20260218.pdf) | ![[WEB_EN_FAQ_GMG_20260218]] |
 | [WEB_EN_FAQ_SRB_20250828.pdf](06-Pieces-jointes/rules/FFxiv/WEB_EN_FAQ_SRB_20250828.pdf) | ![[WEB_EN_FAQ_SRB_20250828]] |
@@ -220,8 +212,6 @@
 | [desert2.jpg](06-Pieces-jointes/images/desert2.jpg) | ![[desert2]] |
 | [dnd-fiche-personnage.pdf](06-Pieces-jointes/rules/Dungeons-and-Dragons/dnd-fiche-personnage.pdf) | ![[dnd-fiche-personnage]] |
 | [drow.jpg](06-Pieces-jointes/images/drow.jpg) | ![[drow]] |
-| [eFeuillePersoDD2024.pdf](06-Pieces-jointes/rules/Dungeons-and-Dragons/eFeuillePersoDD2024.pdf) | ![[eFeuillePersoDD2024]] |
-| [eFeuillePersoDD5.pdf](06-Pieces-jointes/rules/Dungeons-and-Dragons/eFeuillePersoDD5.pdf) | ![[eFeuillePersoDD5]] |
 | [eglise.jpg](06-Pieces-jointes/images/eglise.jpg) | ![[eglise]] |
 | [falaise.jpg](06-Pieces-jointes/images/falaise.jpg) | ![[falaise]] |
 | [firehammer.jpg](06-Pieces-jointes/images/firehammer.jpg) | ![[firehammer]] |
