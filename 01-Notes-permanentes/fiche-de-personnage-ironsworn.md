@@ -21,7 +21,6 @@ elan_max: 10
 elan_reset: 2
 experience: 0
 ---
-
 # 🛡️ Fiche de Personnage — Ironsworn
 
 > *"Je le jure sur le fer."* [^1]
@@ -51,19 +50,19 @@ experience: 0
 
 ## 🔋 Jauges de Statut
 
-> [!info] Santé *(Health)* `[ Max +5 ]`
+> [!tip] Santé *(Health)* `[ Max +5 ]`
 > **[ +5 ]** `|` **[ +4 ]** `|` **[ +3 ]** `|` **[ +2 ]** `|` **[ +1 ]** `|` **[ 0 ]**  
 > *(Mesure votre forme physique et votre résistance aux blessures)*
 
-> [!info] Esprit *(Spirit)* `[ Max +5 ]`
+> [!help] Esprit *(Spirit)* `[ Max +5 ]`
 > **[ +5 ]** `|` **[ +4 ]** `|` **[ +3 ]** `|` **[ +2 ]** `|` **[ +1 ]** `|` **[ 0 ]**  
 > *(Mesure votre santé mentale, votre détermination et votre moral)*
 
-> [!info] Provisions *(Supply)* `[ Max +5 ]`
+> [!example] Provisions *(Supply)* `[ Max +5 ]`
 > **[ +5 ]** `|` **[ +4 ]** `|` **[ +3 ]** `|` **[ +2 ]** `|` **[ +1 ]** `|` **[ 0 ]**  
 > *(Mesure vos ressources, votre équipement de voyage et vos fournitures)*
 
-> [!warning] Élan *(Momentum)*
+> [!quote] Élan *(Momentum)*
 > **[ +10 ]** `|` **[ +9 ]** `|` **[ +8 ]** `|` **[ +7 ]** `|` **[ +6 ]** `|` **[ +5 ]** `|` **[ +4 ]** `|` **[ +3 ]** `|` **[ +2 ]** `|` **[ +1 ]** `|` **[ 0 ]**  
 > **[ -1 ]** `|` **[ -2 ]** `|` **[ -3 ]** `|` **[ -4 ]** `|` **[ -5 ]** `|` **[ -6 ]**  
 > - **Élan Max :** `+10`
@@ -72,11 +71,10 @@ experience: 0
 > [!note] Expérience *(XP)*
 > - **Disponible :** `0`
 > - **Dépensée :** `0`
-
-|     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-|     |     |     |     |     |     |     |     |     |     |     |     |     |     |     |
-
+> 
+> |  o  |  o  |  o  |  o  |  o  |  o  |  o  |  o  |  o  |  o  |  o  |  o  |  o  |  o  |  o  |
+> | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+> |  o  |  o  |  o  |  o  |  o  |  o  |  o  |  o  |  o  |  o  |  o  |  o  |  o  |  o  |  o  |
 
 ---
 
@@ -98,18 +96,18 @@ experience: 0
 
 ---
 
-## 📜 Serments de Fer (Vows)
+## 📜 Vœux (Vows)
 
 > *Chaque serment possède 10 cases de progression (4 coques/tiques par case = 40 tiques au total).* [^3]
 
 ### 1. Serment Incitateur : [[Nom du Serment 1]]
-- **Rang :** `[ ] Mineur | [ ] Dangereux | [x] Formidable | [ ] Extrême | [ ] Épique`
+- **Rang :** `[ ] Pénible (Troublesome) | [ ] Dangereux | [x] Redoutable (Formidable) | [ ] Extrême | [ ] Épique`
 - **Jauge de progression :**
   `[ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ]` *(0/10)*
 - **Objectif / Description :** [[Note_Serment_1]]
 
 ### 2. Serment Secondaire : [[Nom du Serment 2]]
-- **Rang :** `[x] Mineur | [ ] Dangereux | [ ] Formidable | [ ] Extrême | [ ] Épique`
+- **Rang :** `[ ] Pénible (Troublesome) | [ ] Dangereux | [x] Redoutable (Formidable) | [ ] Extrême | [ ] Épique`
 - **Jauge de progression :**
   `[ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ]` *(0/10)*
 - **Objectif / Description :** [[Note_Serment_2]]
@@ -132,18 +130,22 @@ experience: 0
 ## 🃏 Atouts (Assets)
 
 ### Atout 1 : [[Atout - Intitulé 1]]
-- **Type :** Compagnon / Voie / Talent de Combat / Rituel
+- **Type :** Compagnon (Companion) / Voie (Path) / Talent de Combat (Combat Talent) / Rituel (Ritual)
 - **Aptitudes :**
   - [x] Aptitude 1 *(Débloquée)*
   - [ ] Aptitude 2
   - [ ] Aptitude 3
 
 ### Atout 2 : [[Atout - Intitulé 2]]
-- **Type :** Compagnon / Voie / Talent de Combat / Rituel
+- **Type :** Compagnon (Companion) / Voie (Path) / Talent de Combat (Combat Talent) / Rituel (Ritual)
 - **Aptitudes :**
   - [x] Aptitude 1 *(Débloquée)*
   - [ ] Aptitude 2
   - [ ] Aptitude 3
+
+---
+
+## Equipements (Gear) :
 
 ---
 
