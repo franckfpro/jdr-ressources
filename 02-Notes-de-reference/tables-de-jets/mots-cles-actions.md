@@ -11,106 +11,107 @@ date_creation: 2026-09-05
 ---
 # Actions
 
-| d100 | Action |
-| :--- | :--- |
-| 1 | Abandonner |
-| 2 | Abattre |
-| 3 | Absorber |
-| 4 | Accuser |
-| 5 | Acheter |
-| 6 | Allier |
-| 7 | Améliorer |
-| 8 | Anéantir |
-| 9 | Apaiser |
-| 10 | Apprendre |
-| 11 | Arrêter |
-| 12 | Assassiner |
-| 13 | Attaquer |
-| 14 | Attirer |
-| 15 | Bannir |
-| 16 | Bâtir |
-| 17 | Bénir |
-| 18 | Blesser |
-| 19 | Bloquer |
-| 20 | Briser |
-| 21 | Brûler |
-| 22 | Cacher |
-| 23 | Capturer |
-| 24 | Célébrer |
-| 25 | Chasser |
-| 26 | Chercher |
-| 27 | Commander |
-| 28 | Condamner |
-| 29 | Confisquer |
-| 30 | Conquérir |
-| 31 | Construire |
-| 32 | Contrôler |
-| 33 | Convaincre |
-| 34 | Corrompre |
-| 35 | Créer |
-| 36 | Creuser |
-| 37 | Découvrir |
-| 38 | Défendre |
-| 39 | Démolir |
-| 40 | Déplacer |
-| 41 | Détruire |
-| 42 | Diriger |
-| 43 | Dissimuler |
-| 44 | Échapper |
-| 45 | Écouter |
-| 46 | Effrayer |
-| 47 | Éliminer |
-| 48 | Empêcher |
-| 49 | Emprisonner |
-| 50 | Enquêter |
-| 51 | Envoyer |
-| 52 | Espionner |
-| 53 | Éviter |
-| 54 | Explorer |
-| 55 | Fabriquer |
-| 56 | Falsifier |
-| 57 | Fouiller |
-| 58 | Forcer |
-| 59 | Forger |
-| 60 | Frapper |
-| 61 | Fuir |
-| 62 | Garder |
-| 63 | Guérir |
-| 64 | Harceler |
-| 65 | Ignorer |
-| 66 | Illuminer |
-| 67 | Imiter |
-| 68 | Implorer |
-| 69 | Incendier |
-| 70 | Infiltrer |
-| 71 | Inspecter |
-| 72 | Interroger |
-| 73 | Intimider |
-| 74 | Invoquer |
-| 75 | Isoler |
-| 76 | Jeter |
-| 77 | Juger |
-| 78 | Jurer |
-| 79 | Libérer |
-| 80 | Livrer |
-| 81 | Maudire |
-| 82 | Menacer |
-| 83 | Mentir |
-| 84 | Mutiler |
-| 85 | Négocier |
-| 86 | Observer |
-| 87 | Offrir |
-| 88 | Ouvrir |
-| 89 | Payer |
-| 90 | Piller |
-| 91 | Poursuivre |
-| 92 | Protéger |
-| 93 | Provoquer |
-| 94 | Purifier |
-| 95 | Saboter |
-| 96 | Sacrifier |
-| 97 | Sauver |
-| 98 | Séduire |
-| 99 | Trahir |
-| 100 | Venger |
+| d100 | Action      | Action               |
+| :--- | :---------- | -------------------- |
+| 1    | Abandonner  | Attaquer             |
+| 2    | Abattre     | Défendre             |
+| 3    | Absorber    | Esquiver             |
+| 4    | Accuser     | Parer                |
+| 5    | Acheter     | Fuir                 |
+| 6    | Allier      | Poursuivre           |
+| 7    | Améliorer   | Se cacher            |
+| 8    | Anéantir    | Traquer              |
+| 9    | Apaiser     | Tendre une embuscade |
+| 10   | Apprendre   | Assassiner           |
+| 11   | Arrêter     | Négocier             |
+| 12   | Assassiner  | Intimider            |
+| 13   | Attaquer    | Persuader            |
+| 14   | Attirer     | Charmer              |
+| 15   | Bannir      | Mentir               |
+| 16   | Bâtir       | Tromper              |
+| 17   | Bénir       | Corrompre            |
+| 18   | Blesser     | Interroger           |
+| 19   | Bloquer     | Provoquer            |
+| 20   | Briser      | Supplier             |
+| 21   | Brûler      | Fouiller             |
+| 22   | Cacher      | Observer             |
+| 23   | Capturer    | Écouter              |
+| 24   | Célébrer    | Pister               |
+| 25   | Chasser     | Analyser             |
+| 26   | Chercher    | Déchiffrer           |
+| 27   | Commander   | Lire                 |
+| 28   | Condamner   | Cartographier        |
+| 29   | Confisquer  | Évaluer              |
+| 30   | Conquérir   | Reconnaître          |
+| 31   | Construire  | Crocheter            |
+| 32   | Contrôler   | Désamorcer           |
+| 33   | Convaincre  | Saboter              |
+| 34   | Corrompre   | Forcer               |
+| 35   | Créer       | Réparer              |
+| 36   | Creuser     | Construire           |
+| 37   | Découvrir   | Forger               |
+| 38   | Défendre    | Cuisiner             |
+| 39   | Démolir     | Coudre               |
+| 40   | Déplacer    | Bricoler             |
+| 41   | Détruire    | Lancer               |
+| 42   | Diriger     | Tirer                |
+| 43   | Dissimuler  | Recharger            |
+| 44   | Échapper    | Viser                |
+| 45   | Écouter     | Écraser              |
+| 46   | Effrayer    | Trancher             |
+| 47   | Éliminer    | Empaler              |
+| 48   | Empêcher    | Assommer             |
+| 49   | Emprisonner | Étrangler            |
+| 50   | Enquêter    | Empoisonner          |
+| 51   | Envoyer     | Invoquer             |
+| 52   | Espionner   | Lancer un sort       |
+| 53   | Éviter      | Contrecarrer         |
+| 54   | Explorer    | Bannir               |
+| 55   | Fabriquer   | Guérir               |
+| 56   | Falsifier   | Ressusciter          |
+| 57   | Fouiller    | Méditer              |
+| 58   | Forcer      | Prier                |
+| 59   | Forger      | Bénir                |
+| 60   | Frapper     | Maudire              |
+| 61   | Fuir        | Courir               |
+| 62   | Garder      | Sauter               |
+| 63   | Guérir      | Grimper              |
+| 64   | Harceler    | Nager                |
+| 65   | Ignorer     | Plonger              |
+| 66   | Illuminer   | Ramper               |
+| 67   | Imiter      | Rouler               |
+| 68   | Implorer    | Glisser              |
+| 69   | Incendier   | S'agripper           |
+| 70   | Infiltrer   | Tomber               |
+| 71   | Inspecter   | Chevaucher           |
+| 72   | Interroger  | Naviguer             |
+| 73   | Intimider   | Piloter              |
+| 74   | Invoquer    | Conduire             |
+| 75   | Isoler      | Atteler              |
+| 76   | Jeter       | Dresser              |
+| 77   | Juger       | Apprivoiser          |
+| 78   | Jurer       | Nourrir              |
+| 79   | Libérer     | Calmer               |
+| 80   | Livrer      | Effrayer             |
+| 81   | Maudire     | Voler                |
+| 82   | Menacer     | Piller               |
+| 83   | Mentir      | Saccager             |
+| 84   | Mutiler     | Brûler               |
+| 85   | Négocier    | Détruire             |
+| 86   | Observer    | Démolir              |
+| 87   | Offrir      | Renverser            |
+| 88   | Ouvrir      | Jeter                |
+| 89   | Payer       | Ramasser             |
+| 90   | Piller      | Transporter          |
+| 91   | Poursuivre  | Boire                |
+| 92   | Protéger    | Manger               |
+| 93   | Provoquer   | Dormir               |
+| 94   | Purifier    | Se reposer           |
+| 95   | Saboter     | Veiller              |
+| 96   | Sacrifier   | Camper               |
+| 97   | Sauver      | S'équiper            |
+| 98   | Séduire     | Se déguiser          |
+| 99   | Trahir      | S'infiltrer          |
+| 100  | Venger      | S'échapper           |
+
 [[inspirations]]
