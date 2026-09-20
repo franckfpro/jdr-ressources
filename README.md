@@ -54,10 +54,12 @@
 | [20260406_gmg_web_lv60sc_en.pdf](06-Pieces-jointes/rules/FFxiv/20260406_gmg_web_lv60sc_en.pdf) | ![[20260406_gmg_web_lv60sc_en]] |
 | [5.10-salsvault-player.png](06-Pieces-jointes/images/5.10-salsvault-player.png) | ![[5.10-salsvault-player]] |
 | [5.9-croaker-cave-player.png](06-Pieces-jointes/images/5.9-croaker-cave-player.png) | ![[5.9-croaker-cave-player]] |
+| [9questions(v01).pdf](06-Pieces-jointes/rules/9questions(v01).pdf) | ![[9questions(v01)]] |
 | [Additional-Sheets-Daggerheart-Aug252026.pdf](06-Pieces-jointes/rules/DaggerHeart/Additional-Sheets-Daggerheart-Aug252026.pdf) | ![[Additional-Sheets-Daggerheart-Aug252026]] |
 | [AdditionalSheetsTile_HF_2026-08-25.pdf](06-Pieces-jointes/rules/DaggerHeart/AdditionalSheetsTile_HF_2026-08-25.pdf) | ![[AdditionalSheetsTile_HF_2026-08-25]] |
 | [AdventureFeaturesList.pdf](06-Pieces-jointes/rules/Mythic-Game-Master-Emulator/AdventureFeaturesList.pdf) | ![[AdventureFeaturesList]] |
 | [All-Cards-Printer-Friendly-9-09-25.pdf](06-Pieces-jointes/rules/DaggerHeart/All-Cards-Printer-Friendly-9-09-25.pdf) | ![[All-Cards-Printer-Friendly-9-09-25]] |
+| [Antecedents_de_Personnage_Ironsworn-09-2026.pdf](06-Pieces-jointes/rules/Ironsworn-FR/Antecedents_de_Personnage_Ironsworn-09-2026.pdf) | ![[Antecedents_de_Personnage_Ironsworn-09-2026]] |
 | [BRT-00_GuideDemarrage-BrokenTales_light.pdf](06-Pieces-jointes/rules/Broken-Tales/BRT-00_GuideDemarrage-BrokenTales_light.pdf) | ![[BRT-00_GuideDemarrage-BrokenTales_light]] |
 | [BRT_FicheDeChasseur.pdf](06-Pieces-jointes/rules/Broken-Tales/BRT_FicheDeChasseur.pdf) | ![[BRT_FicheDeChasseur]] |
 | [Basic-Rules-FR-imprim.pdf](06-Pieces-jointes/rules/Dungeons-and-Dragons/Basic-Rules-FR-imprim.pdf) | ![[Basic-Rules-FR-imprim]] |
@@ -86,26 +88,35 @@
 | [GODS-Terres_Sauvages-Carte.pdf](06-Pieces-jointes/rules/GODS/GODS-Terres_Sauvages-Carte.pdf) | ![[GODS-Terres_Sauvages-Carte]] |
 | [GODS_Kit-de-decouverte_1.3.pdf](06-Pieces-jointes/rules/GODS/GODS_Kit-de-decouverte_1.3.pdf) | ![[GODS_Kit-de-decouverte_1.3]] |
 | [Glossaire.pdf](06-Pieces-jointes/rules/Dungeons-and-Dragons/Glossaire.pdf) | ![[Glossaire]] |
+| [Ironswon-Jauges-progres.pdf](06-Pieces-jointes/rules/Ironsworn-FR/2020/Ironswon-Jauges-progres.pdf) | ![[Ironswon-Jauges-progres]] |
+| [Ironswon-Oracles-creation.pdf](06-Pieces-jointes/rules/Ironsworn-FR/2020/Ironswon-Oracles-creation.pdf) | ![[Ironswon-Oracles-creation]] |
+| [Ironswon-Regles-resume.pdf](06-Pieces-jointes/rules/Ironsworn-FR/2020/Ironswon-Regles-resume.pdf) | ![[Ironswon-Regles-resume]] |
+| [Ironsworn-Actions-resume.pdf](06-Pieces-jointes/rules/Ironsworn-FR/2020/Ironsworn-Actions-resume.pdf) | ![[Ironsworn-Actions-resume]] |
 | [Ironsworn-Assets-Printable.pdf](06-Pieces-jointes/rules/Ironsworn/Ironsworn-Assets-Printable.pdf) | ![[Ironsworn-Assets-Printable]] |
+| [Ironsworn-Atouts-cartes-rectoversoA4.pdf](06-Pieces-jointes/rules/Ironsworn-FR/2020/Ironsworn-Atouts-cartes-rectoversoA4.pdf) | ![[Ironsworn-Atouts-cartes-rectoversoA4]] |
+| [Ironsworn-Character-Backgrounds.pdf](06-Pieces-jointes/rules/Ironsworn/Ironsworn-Character-Backgrounds.pdf) | ![[Ironsworn-Character-Backgrounds]] |
 | [Ironsworn-Delve-Cards.pdf](06-Pieces-jointes/rules/Ironsworn-Delve/Ironsworn-Delve-Cards.pdf) | ![[Ironsworn-Delve-Cards]] |
 | [Ironsworn-Delve-Moves-Reference.pdf](06-Pieces-jointes/rules/Ironsworn-Delve/Ironsworn-Delve-Moves-Reference.pdf) | ![[Ironsworn-Delve-Moves-Reference]] |
 | [Ironsworn-Delve-Rulebook-Free-Preview.pdf](06-Pieces-jointes/rules/Ironsworn-Delve/Ironsworn-Delve-Rulebook-Free-Preview.pdf) | ![[Ironsworn-Delve-Rulebook-Free-Preview]] |
 | [Ironsworn-Delve-Site-Worksheet.pdf](06-Pieces-jointes/rules/Ironsworn-Delve/Ironsworn-Delve-Site-Worksheet.pdf) | ![[Ironsworn-Delve-Site-Worksheet]] |
+| [Ironsworn-Feuille-Personnage.pdf](06-Pieces-jointes/rules/Ironsworn-FR/2020/Ironsworn-Feuille-Personnage.pdf) | ![[Ironsworn-Feuille-Personnage]] |
 | [Ironsworn-Landscape-Character-Sheet.pdf](06-Pieces-jointes/rules/Ironsworn/Ironsworn-Landscape-Character-Sheet.pdf) | ![[Ironsworn-Landscape-Character-Sheet]] |
-| [Ironsworn-Monde.pdf](06-Pieces-jointes/rules/Ironsworn-FR/Ironsworn-Monde.pdf) | ![[Ironsworn-Monde]] |
+| [Ironsworn-Monde.pdf](06-Pieces-jointes/rules/Ironsworn-FR/2020/Ironsworn-Monde.pdf) | ![[Ironsworn-Monde]] |
 | [Ironsworn-Playkit.pdf](06-Pieces-jointes/rules/Ironsworn/Ironsworn-Playkit.pdf) | ![[Ironsworn-Playkit]] |
 | [Ironsworn-Rulebook.pdf](06-Pieces-jointes/rules/Ironsworn/Ironsworn-Rulebook.pdf) | ![[Ironsworn-Rulebook]] |
 | [Ironsworn-Rules-Summary.pdf](06-Pieces-jointes/rules/Ironsworn/Ironsworn-Rules-Summary.pdf) | ![[Ironsworn-Rules-Summary]] |
-| [Ironsworn-SRD_VF.pdf](06-Pieces-jointes/rules/Ironsworn-FR/Ironsworn-SRD_VF.pdf) | ![[Ironsworn-SRD_VF]] |
+| [Ironsworn-SRD_VF.pdf](06-Pieces-jointes/rules/Ironsworn-FR/2020/Ironsworn-SRD_VF.pdf) | ![[Ironsworn-SRD_VF]] |
 | [Ironsworn-Starforged-Assets-Sheets.pdf](06-Pieces-jointes/rules/Ironsworn-Starforged/Ironsworn-Starforged-Assets-Sheets.pdf) | ![[Ironsworn-Starforged-Assets-Sheets]] |
 | [Ironsworn-Starforged-Illustrated-Character-Sheet.pdf](06-Pieces-jointes/rules/Ironsworn-Starforged/Ironsworn-Starforged-Illustrated-Character-Sheet.pdf) | ![[Ironsworn-Starforged-Illustrated-Character-Sheet]] |
+| [Ironsworn-Starforged-Interludes-Patch-Singles.pdf](06-Pieces-jointes/rules/Ironsworn-Starforged/Ironsworn-Starforged-Interludes-Patch-Singles.pdf) | ![[Ironsworn-Starforged-Interludes-Patch-Singles]] |
 | [Ironsworn-Starforged-Playkit.pdf](06-Pieces-jointes/rules/Ironsworn-Starforged/Ironsworn-Starforged-Playkit.pdf) | ![[Ironsworn-Starforged-Playkit]] |
 | [Ironsworn-Starforged-Rules-Setting-Primer.pdf](06-Pieces-jointes/rules/Ironsworn-Starforged/Ironsworn-Starforged-Rules-Setting-Primer.pdf) | ![[Ironsworn-Starforged-Rules-Setting-Primer]] |
 | [Ironsworn-Starforged-Rules-Summary.pdf](06-Pieces-jointes/rules/Ironsworn-Starforged/Ironsworn-Starforged-Rules-Summary.pdf) | ![[Ironsworn-Starforged-Rules-Summary]] |
+| [Ironsworn-Starforged-Ship-Classes.pdf](06-Pieces-jointes/rules/Ironsworn-Starforged/Ironsworn-Starforged-Ship-Classes.pdf) | ![[Ironsworn-Starforged-Ship-Classes]] |
 | [Ironsworn-Starforged-Truths-Workbook.pdf](06-Pieces-jointes/rules/Ironsworn-Starforged/Ironsworn-Starforged-Truths-Workbook.pdf) | ![[Ironsworn-Starforged-Truths-Workbook]] |
 | [Ironsworn-VF-Cartes-planches-A4-2026.pdf](06-Pieces-jointes/rules/Ironsworn-FR/Ironsworn-VF-Cartes-planches-A4-2026.pdf) | ![[Ironsworn-VF-Cartes-planches-A4-2026]] |
 | [Ironsworn-VF-Materiel-de-jeu-2026-07.pdf](06-Pieces-jointes/rules/Ironsworn-FR/Ironsworn-VF-Materiel-de-jeu-2026-07.pdf) | ![[Ironsworn-VF-Materiel-de-jeu-2026-07]] |
-| [Ironsworn-VF_2020-relu.pdf](06-Pieces-jointes/rules/Ironsworn-FR/Ironsworn-VF_2020-relu.pdf) | ![[Ironsworn-VF_2020-relu]] |
+| [Ironsworn-VF_2020-relu.pdf](06-Pieces-jointes/rules/Ironsworn-FR/2020/Ironsworn-VF_2020-relu.pdf) | ![[Ironsworn-VF_2020-relu]] |
 | [Ironsworn-World-Workbook.pdf](06-Pieces-jointes/rules/Ironsworn/Ironsworn-World-Workbook.pdf) | ![[Ironsworn-World-Workbook]] |
 | [MUNE - The Homebrewery.pdf](06-Pieces-jointes/rules/Dungeons-and-Dragons/MUNE - The Homebrewery.pdf) | ![[MUNE - The Homebrewery]] |
 | [MysteryMatrixFillable.pdf](06-Pieces-jointes/rules/Mythic-Game-Master-Emulator/MysteryMatrixFillable.pdf) | ![[MysteryMatrixFillable]] |
@@ -353,3 +364,5 @@
 | [ville1.jpg](06-Pieces-jointes/images/ville1.jpg) | ![[ville1]] |
 | [ville2.jpg](06-Pieces-jointes/images/ville2.jpg) | ![[ville2]] |
 | [vins.jpg](06-Pieces-jointes/images/vins.jpg) | ![[vins]] |
+
+![[Base.base]]

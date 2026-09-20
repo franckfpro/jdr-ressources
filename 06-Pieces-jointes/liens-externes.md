@@ -45,5 +45,14 @@ date_creation: 2026-09-01
 
 - [Glossaire](https://fr.wikipedia.org/wiki/Glossaire_du_jeu_de_r%C3%B4le)
 
+---
+
+- [motsaleatoires](https://www.motsaleatoires.com/)
+- [wikipedia random - fre](https://fr.wikipedia.org/wiki/Sp%C3%A9cial:Page_au_hasard)
+- [wikipedia random - eng](https://en.wikipedia.org/wiki/Special:Random)
+- [generateur-mot-aleatoire](https://1000-outils.fr/generateur-mot-aleatoire)
+
+---
+
 [[utilitaires]]
 [[references]]
