@@ -39,13 +39,13 @@ Certains tableaux sont organisés par **thème** (voyage, combat, social, explor
 
 **Exemple de tableau simple :**
 
-| 1d6 | Tourment |
-|-----|----------|
-| 1   | Blessure mineure (-1 aux actions physiques) |
-| 2   | Perte d’un objet important |
-| 3   | Rencontre hostile (1d4 ennemis) |
-| 4   | Malédiction temporaire |
-| 5   | Trahison d’un allié |
+| 1d6 | Tourment                                     |
+| --- | -------------------------------------------- |
+| 1   | Blessure mineure (-1 aux actions physiques)  |
+| 2   | Perte d’un objet important                   |
+| 3   | Rencontre hostile (1d4 ennemis)              |
+| 4   | Malédiction temporaire                       |
+| 5   | Trahison d’un allié                          |
 | 6   | Épuisement (réduction des points de vie max) |
 
 ---

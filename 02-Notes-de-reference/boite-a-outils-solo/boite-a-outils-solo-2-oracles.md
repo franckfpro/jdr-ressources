@@ -15,14 +15,14 @@ Lorsque vous jouez à un JDR en solo, vous n'avez pas de MJ pour répondre à vo
 
 [[oracles]]
 
-| Lancer de d6 | Résultat |
-| --- | --- |
-| **6** | Oui, et... *(Succès critique / Avantage)* |
-| **5** | Oui |
-| **4** | Oui, mais... *(Complication)* |
-| **3** | Non, mais... *(Consolation / Opportunité)* |
-| **2** | Non |
-| **1** | Non, et... *(Échec critique / Mésaventure)* |
+| Lancer de d6 | Résultat                                    |
+| ------------ | ------------------------------------------- |
+| **6**        | Oui, et... *(Succès critique / Avantage)*   |
+| **5**        | Oui                                         |
+| **4**        | Oui, mais... *(Complication)*               |
+| **3**        | Non, mais... *(Consolation / Opportunité)*  |
+| **2**        | Non                                         |
+| **1**        | Non, et... *(Échec critique / Mésaventure)* |
 
 ## Comment utiliser l'Oracle
 
