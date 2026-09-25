@@ -16,6 +16,7 @@ date_creation: 2026-09-01
 - [game-master-apprentice (multiples spark generateur)](https://jamesturneronline.net/game-masters-apprentice/)
 - [generateur-cartes](https://watabou.github.io/index.html)
 - [donjon (multiples generateurs - eng)](https://donjon.bin.sh/)
+- [rolegenerator (personnages - eng)](https://www.rolegenerator.com/)
 
 ---
 
@@ -28,6 +29,7 @@ date_creation: 2026-09-01
 - [aidedd (reference dnd - fre)](https://www.aidedd.org/adj/outils/)
 - [roll20 (dnd en ligne)](https://roll20.net/)
 - [minimalroleplay (jdr en ligne)](https://minimalroleplay.com/)
+- [dndcauldron (jdr en ligne - eng)](https://dndcauldron.com/)
 
 ---
 
