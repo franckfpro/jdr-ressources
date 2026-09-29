@@ -30,6 +30,7 @@ date_creation: 2026-09-01
 - [roll20 (dnd en ligne)](https://roll20.net/)
 - [minimalroleplay (jdr en ligne)](https://minimalroleplay.com/)
 - [dndcauldron (jdr en ligne - eng)](https://dndcauldron.com/)
+- [ironsworn companion - eng](https://gcoulby.github.io/IronswornCompanion/#/)
 
 ---
 
