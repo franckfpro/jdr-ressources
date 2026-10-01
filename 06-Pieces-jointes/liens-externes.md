@@ -31,6 +31,7 @@ date_creation: 2026-09-01
 - [minimalroleplay (jdr en ligne)](https://minimalroleplay.com/)
 - [dndcauldron (jdr en ligne - eng)](https://dndcauldron.com/)
 - [ironsworn companion - eng](https://gcoulby.github.io/IronswornCompanion/#/)
+- [ironsworn roll - fre](https://chartopia.d12dev.com/collection/200/)
 
 ---
 
