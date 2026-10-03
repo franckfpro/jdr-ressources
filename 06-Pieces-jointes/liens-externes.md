@@ -27,10 +27,10 @@ date_creation: 2026-09-01
 
 - [dndbeyond (dnd en ligne - eng)](https://www.dndbeyond.com/en)
 - [aidedd (reference dnd - fre)](https://www.aidedd.org/adj/outils/)
-- [roll20 (dnd en ligne)](https://roll20.net/)
+- [roll20 (dnd/ironsworn en ligne)](https://roll20.net/)
 - [minimalroleplay (jdr en ligne)](https://minimalroleplay.com/)
 - [dndcauldron (jdr en ligne - eng)](https://dndcauldron.com/)
-- [ironsworn companion - eng](https://gcoulby.github.io/IronswornCompanion/#/)
+- [ironsworn awesome - eng](https://www.awesomeironsworn.com/)
 - [ironsworn roll - fre](https://chartopia.d12dev.com/collection/200/)
 
 ---
