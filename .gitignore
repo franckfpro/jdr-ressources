@@ -1,27 +1,27 @@
 .obsidian/workspace.json
 .obsidian/plugins/*
 
-06-Pieces-jointes/images/**
-!06-Pieces-jointes/images/
-!06-Pieces-jointes/images/**/
-!06-Pieces-jointes/images/*.md
-!06-Pieces-jointes/images/**/*.md
+_attachments/images/**
+!_attachments/images/
+!_attachments/images/**/
+!_attachments/images/*.md
+!_attachments/images/**/*.md
 
-06-Pieces-jointes/rules/**
-!06-Pieces-jointes/rules/
-!06-Pieces-jointes/rules/**/
-!06-Pieces-jointes/rules/*.md
-!06-Pieces-jointes/rules/**/*.md
+_attachments/rules/**
+!_attachments/rules/
+!_attachments/rules/**/
+!_attachments/rules/*.md
+!_attachments/rules/**/*.md
 
-06-Pieces-jointes/podcasts/**
-!06-Pieces-jointes/podcasts/
-!06-Pieces-jointes/podcasts/**/
-!06-Pieces-jointes/podcasts/*.md
-!06-Pieces-jointes/podcasts/**/*.md
+_attachments/podcasts/**
+!_attachments/podcasts/
+!_attachments/podcasts/**/
+!_attachments/podcasts/*.md
+!_attachments/podcasts/**/*.md
 
-06-Pieces-jointes/videos/**
-!06-Pieces-jointes/videos/
-!06-Pieces-jointes/videos/**/
-!06-Pieces-jointes/videos/*.md
-!06-Pieces-jointes/videos/**/*.md
+_attachments/videos/**
+!_attachments/videos/
+!_attachments/videos/**/
+!_attachments/videos/*.md
+!_attachments/videos/**/*.md
 
