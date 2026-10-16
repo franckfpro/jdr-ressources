@@ -9,6 +9,8 @@ tags:
 date_creation: 2026-09-23
 ---
 
+# construction-de-personnage-ou
+
 | d100 | Où ? (Le Lieu)         |
 | ---- | ---------------------- |
 | 1    | Cité flottante         |
@@ -111,3 +113,7 @@ date_creation: 2026-09-23
 | 98   | Terres du cauchemar    |
 | 99   | Sanctuaire céleste     |
 | 100  | L'Œil du typhon        |
+
+[[personnages]]
+[[utilitaires]]
+[[references]]

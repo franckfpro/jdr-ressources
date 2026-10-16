@@ -1,14 +1,18 @@
 ---
 id: "202610151217"
+type: permanente
+statut: valide
 tags:
-  - jdr
+  - personnage
   - game-design
-  - zettelkasten
   - mort
+  - reference
 date_creation: 2026-10-15
 ---
 
-# Rendre la mort en jeu de rôle intéressante et ludique (Leçons de Father Fog)
+# mort-narrative
+
+*Rendre la mort en jeu de rôle intéressante et ludique (Leçons de Father Fog).*
 
 ## Idée principale
 La mort d'un personnage dans un jeu de rôle mortel ne doit pas être une simple fin mécanique ou une punition frustrante, mais un point d'inflection narratif et une opportunité de jeu.
@@ -37,3 +41,6 @@ La mort d'un personnage dans un jeu de rôle mortel ne doit pas être une simple
 
 ## Références
 - Source: Transcription vidéo sur le système de mort du jeu Father Fog.
+
+[[personnages]]
+[[references]]

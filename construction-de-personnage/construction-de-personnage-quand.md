@@ -9,6 +9,8 @@ tags:
 date_creation: 2026-09-23
 ---
 
+# construction-de-personnage-quand
+
 | d100 | Quand ? (L'Époque / Toile de fond) |
 | ---- | ---------------------------------- |
 | 1    | Après le grand cataclysme          |
@@ -111,3 +113,7 @@ date_creation: 2026-09-23
 | 98   | Ère de l'oubli                     |
 | 99   | Aube des morts                     |
 | 100  | L'instant de la fracture           |
+
+[[personnages]]
+[[utilitaires]]
+[[references]]

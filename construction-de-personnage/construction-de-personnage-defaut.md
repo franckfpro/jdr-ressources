@@ -9,6 +9,8 @@ tags:
 date_creation: 2026-09-23
 ---
 
+# construction-de-personnage-defaut
+
 | d100 | Défauts (Flaws)            |
 | ---- | -------------------------- |
 | 1    | Arrogance démesurée        |
@@ -111,3 +113,7 @@ date_creation: 2026-09-23
 | 98   | Absence de remords         |
 | 99   | Folie douce                |
 | 100  | Hubris                     |
+
+[[personnages]]
+[[utilitaires]]
+[[references]]

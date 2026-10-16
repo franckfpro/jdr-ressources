@@ -9,6 +9,8 @@ tags:
 date_creation: 2026-09-23
 ---
 
+# construction-de-personnage-pourquoi
+
 | d100 | Pourquoi ? (La Motivation)    |
 | ---- | ----------------------------- |
 | 1    | Vengeance personnelle         |
@@ -111,3 +113,7 @@ date_creation: 2026-09-23
 | 98   | Échapper à la malédiction     |
 | 99   | Folie des grandeurs           |
 | 100  | L'appel du destin             |
+
+[[personnages]]
+[[utilitaires]]
+[[references]]

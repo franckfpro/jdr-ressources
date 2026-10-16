@@ -5,9 +5,13 @@ statut: valide
 tags:
   - solo
   - boite-a-outils
+  - inspiration
+  - oracle
 date_creation: 2026-09-11
 ---
-# Boîte à outils JDR Solo: Les Spark Tables
+# boite-a-outils-solo-3-spark
+
+*Boîte à outils JDR Solo: Les Spark Tables*
 
 Le troisième outil est la **Table Spark (étincelle)**.
 
@@ -77,3 +81,6 @@ Faisons un essai avec ma Table Spark (étincelle) Fantasy Générique ! Pour cet
 * **Chris McDowall** a popularisé le terme « Tables Spark (étincelle) » (*Spark Tables*) avec *Electric Bastionland* et a étendu leur utilisation dans *Mythic Bastionland*. Son Substack *Bastionland Presser* contient une foule d'exemples issus de son livre récent, notamment une excellente table sur ce que votre chevalier a fait entre deux sessions.
 * Le Substack *Ink & Dice* de **M. Allen Hall** propose des exemples de ses propres Tables Spark (étincelle) et montre comment il les utilise non seulement pour répondre à des questions, mais aussi pour inspirer des actions futures. Allen suggère de tirer sur les tables de manière préventive, de garder ces mots en tête pendant le jeu, puis de relancer les dés une fois qu'on a trouvé un endroit où les intégrer.
 * Vous avez besoin d'une Table Spark (étincelle) Cyberpunk ? **Ivo Ziskra** vient d'en publier une gratuitement sur itch.io.
+
+[[utilitaires]]
+[[references]]

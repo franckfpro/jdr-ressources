@@ -5,9 +5,10 @@ statut: valide
 tags:
   - D100
   - inspiration
+  - divers
 date_creation: 2026-09-20
 ---
-# Divers
+# mots-cles-divers
 
 | d100 | Mot ou Concept |
 | ---- | -------------- |
@@ -111,3 +112,5 @@ date_creation: 2026-09-20
 | 98   | Vallée         |
 | 99   | Monastère      |
 | 100  | Reliquaire     |
+
+[[inspirations]]

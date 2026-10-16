@@ -4,10 +4,12 @@ type: permanente
 statut: valide
 tags:
   - D100
+  - description
   - lieux
+  - inspiration
 date_creation: 2026-09-05
 ---
-# Description de Lieux (Atmosphère et État)
+# description-de-lieux
 
 | Jet (d100) | Description (Atmosphère, état ou trait marquant) |
 | :--------: | ------------------------------------------------ |

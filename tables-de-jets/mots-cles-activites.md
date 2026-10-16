@@ -5,9 +5,10 @@ statut: valide
 tags:
   - D100
   - inspiration
+  - activite
 date_creation: 2026-09-20
 ---
-# Activités
+# mots-cles-activites
 
 | d100 | Activité                                       |
 | ---- | ---------------------------------------------- |
@@ -111,3 +112,5 @@ date_creation: 2026-09-20
 | 98   | Suivre le comportement d'une bête sauvage      |
 | 99   | Analyser les empreintes sur le sol             |
 | 100  | Se poser au sommet d'une colline et contempler |
+
+[[inspirations]]

@@ -6,9 +6,11 @@ tags:
   - reference
   - description
   - utilitaire
+  - tarot
+  - inspiration
 date_creation: 2026-09-14
 ---
-# Tarot
+# tarot
 
 Le Tarot, fondement ésotérique traditionnel, se compose de 78 lames: 22 arcanes majeurs représentant le cheminement archétypal de l'âme, et 56 arcanes mineurs illustrant les situations du quotidien. Voici l'analyse détaillée des 22 arcanes majeurs.
 

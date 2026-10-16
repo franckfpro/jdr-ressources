@@ -4,8 +4,10 @@ type: permanente
 statut: valide
 tags:
   - solo
-  - MythicGME
+  - mythic-gme
   - oracle
+  - D100
+  - reference
 date_creation: 2026-09-29
 ---
 # table-du-destin
@@ -72,4 +74,8 @@ Voici à quoi correspond exactement chaque nombre pour l'exemple **10 50 91** (C
 💡 **Rappel utile pour Mythic GME :**
 
 Lorsque vous faites votre lancer de d100, si vous obtenez un **double** (11, 22, 33, 44, 55, 66, 77, 88, 99) et que le chiffre répété est **inférieur ou égal au Facteur de Chaos** actuel (ici 5, donc pour 11, 22, 33, 44 ou 55), un **Événement Aléatoire** (*Random Event*) vient s'ajouter à la réponse !
+
+[[utilitaires]]
+[[references]]
+[[inspirations]]
 

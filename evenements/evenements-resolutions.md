@@ -7,7 +7,9 @@ tags:
   - evenement
 date_creation: 2026-09-05
 ---
-# Résolutions
+# evenements-resolutions
+
+*Résolutions.*
 
 | d20 | Mécanisme de résolution | Effet narratif et mécanique                                                                             |
 | --- | ----------------------- | ------------------------------------------------------------------------------------------------------- |

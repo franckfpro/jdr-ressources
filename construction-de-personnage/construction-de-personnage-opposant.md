@@ -9,6 +9,8 @@ tags:
 date_creation: 2026-09-23
 ---
 
+# construction-de-personnage-opposant
+
 | d100 | Qui s'y oppose ? (L'Adversité / Foe) |
 | ---- | ------------------------------------ |
 | 1    | Tyran local                          |
@@ -111,3 +113,7 @@ date_creation: 2026-09-23
 | 98   | Clone du héros                       |
 | 99   | La propre ombre du héros             |
 | 100  | Le destin lui-même                   |
+
+[[personnages]]
+[[utilitaires]]
+[[references]]

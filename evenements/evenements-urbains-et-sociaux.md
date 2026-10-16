@@ -7,7 +7,9 @@ tags:
   - evenement
 date_creation: 2026-09-05
 ---
-# Fiche d'Événements Urbains et Sociaux (d100)
+# evenements-urbains-et-sociaux
+
+*Fiche d'Événements Urbains et Sociaux (d100).*
 
 | Jet    | Catégorie                | Description détaillée de l'événement                                                                                                                 |
 | ------ | ------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------- |

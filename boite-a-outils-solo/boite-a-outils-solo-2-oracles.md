@@ -5,9 +5,14 @@ statut: valide
 tags:
   - solo
   - boite-a-outils
+  - oracle
+  - D6
+  - reference
 date_creation: 2026-09-11
 ---
-# Boîte à outils Solo: Les Oracles Oui/Non
+# boite-a-outils-solo-2-oracles
+
+*Boîte à outils Solo: Les Oracles Oui/Non*
 
 ## Qu'est-ce qu'un Oracle Oui/Non ?
 
@@ -75,3 +80,6 @@ Lorsque vous obtenez l'une de ces nuances, ne vous prenez pas la tête. Regardez
 * **Non, et... :** Vous ne trouvez pas la lettre ET vous faites tomber un objet du bureau, ce qui attire l'attention.
 
 Parfois, on se retrouve bloqué face à un résultat. Quand le contexte ne suffit pas, vous avez besoin d'une étincelle externe pour stimuler votre imagination. C'est là qu'interviennent les **Tables d'Étincelles** (*Spark Tables*). Il s'agit de listes de mots-clés (verbe + nom) conçues pour relancer votre créativité — et c'est exactement le prochain outil que nous ajouterons à notre Boîte à Outils Solo !
+
+[[utilitaires]]
+[[references]]

@@ -7,7 +7,9 @@ tags:
   - evenement
 date_creation: 2026-09-05
 ---
-# Table des Complications Imprévues (d100)
+# evenements-complications-imprevues
+
+*Table des Complications Imprévues (d100).*
 
 | Jet    | Type de Complication | Effet direct sur la scène en cours                                                                             |
 | ------ | -------------------- | -------------------------------------------------------------------------------------------------------------- |

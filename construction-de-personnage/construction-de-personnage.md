@@ -5,10 +5,11 @@ statut: valide
 tags:
   - boite-a-outils
   - personnage
+  - reference
 date_creation: 2026-09-23
 ---
 
-# Construction de personnage
+# construction-de-personnage
 
 **Qui ? (Who ?) — Le Personnage**
 [[construction-de-personnage-qui]]
@@ -65,4 +66,8 @@ En JDR solo, il est inutile de tout figer lors de la création du personnage. La
 **Liens avec les PNJ Clés et Leurs Problèmes (Core NPC Bonds and Their Problems)**
 [[construction-de-personnage-pnj-cles]]
 Ce sont les personnages secondaires qui comptent pour votre héros. Au lieu d'en faire de simples figurants de l'univers, définissez pour chacun un objectif personnel, une allégeance de faction, un secret caché, et surtout un problème qui leur est propre. En tenant à jour une liste de ces PNJ et de leurs trames, des événements aléatoires inattendus pourront les ramener sur le devant de la scène en cours de partie. Leurs tourments personnels deviendront naturellement des amorces et des quêtes pour vos prochaines sessions.
+
+[[personnages]]
+[[utilitaires]]
+[[references]]
 

@@ -5,6 +5,7 @@ statut: valide
 tags:
   - D20
   - solo
+  - oracle
   - reference
   - utilitaire
 date_creation: 2026-09-05

@@ -5,9 +5,10 @@ statut: valide
 tags:
   - reference
   - utilitaire
+  - improvisation
 date_creation: 2026-09-18
 ---
-# Improvisation
+# improvisation
 
 ## **1. Le « Oui, et… » (Accepter et enrichir)**
 En théâtre, bloquer la proposition d'un partenaire tue la scène. En JDR, c'est le même principe : valide ce que suggère un autre joueur ou le MJ et ajoute ta propre pierre à l'édifice. C'est la mécanique qui permet de faire rebondir l'action et d'apporter de la nuance à la fiction.

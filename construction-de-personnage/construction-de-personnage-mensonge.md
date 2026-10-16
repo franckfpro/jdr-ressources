@@ -9,6 +9,8 @@ tags:
 date_creation: 2026-09-23
 ---
 
+# construction-de-personnage-mensonge
+
 | d100 | Mensonge Fondamental (Core Lie)         |
 | ---- | --------------------------------------- |
 | 1    | "Je suis invincible"                    |
@@ -111,3 +113,7 @@ date_creation: 2026-09-23
 | 98   | "La liberté absolue existe"             |
 | 99   | "L'univers tourne autour de moi"        |
 | 100  | "C'est ma dernière aventure"            |
+
+[[personnages]]
+[[utilitaires]]
+[[references]]

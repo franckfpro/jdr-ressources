@@ -7,9 +7,12 @@ tags:
   - journaling
   - papier
   - numerique
+  - reference
 date_creation: 2026-09-01
 ---
-# Prise de notes en JDR solo
+# lonelog
+
+*Prise de notes en JDR solo*
 
 - @  pour les actions du joueur
 - ?  pour les questions à l’oracle

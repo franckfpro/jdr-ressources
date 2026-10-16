@@ -1,13 +1,14 @@
 ---
-id: "202609051833"
+id: "202610160004"
 type: permanente
 statut: valide
 tags:
   - D20
   - evenement
+  - solo
 date_creation: 2026-09-05
 ---
-# Déclencheurs
+# evenements-declencheurs
 
 | d20 | Déclencheur              | Condition d'activation                                                                            |
 | --- | ------------------------ | ------------------------------------------------------------------------------------------------- |

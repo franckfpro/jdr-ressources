@@ -5,9 +5,10 @@ statut: valide
 tags:
   - D100
   - inspiration
+  - complication
 date_creation: 2026-09-20
 ---
-# Complications
+# mots-cles-complications
 
 | d100 | Complication                                                      |
 | ---- | ----------------------------------------------------------------- |
@@ -111,3 +112,5 @@ date_creation: 2026-09-20
 | 98   | L'environnement semble prendre vie pour entraver le groupe        |
 | 99   | Une dette contractée auprès d'une entité est réclamée à l'instant |
 | 100  | La "victoire" déclenche un mécanisme de destruction massive       |
+
+[[inspirations]]

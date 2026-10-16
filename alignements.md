@@ -6,9 +6,14 @@ tags:
   - reference
   - personnage
   - utilitaire
+  - alignement
 date_creation: 2026-09-05
 ---
-# Grille des alignements (Axe Éthique et Axe Moral)
+# alignements
+
+*Grille des alignements (axe éthique et axe moral).*
+
+## grille des alignements
 
 |                         | Bon (Good)    | Neutre (Neutral) | Mauvais (Evil)    |
 | ----------------------- | ------------- | ---------------- | ----------------- |
@@ -16,7 +21,7 @@ date_creation: 2026-09-05
 | **Neutre (Neutral)**    | Neutre Bon    | Neutre Absolu    | Neutre Mauvais    |
 | **Chaotique (Chaotic)** | Chaotique Bon | Chaotique Neutre | Chaotique Mauvais |
 
-# Détails et descriptions
+## détails et descriptions
 
 | Alignement            | Terme original  | Description                                                                              |
 | --------------------- | --------------- | ---------------------------------------------------------------------------------------- |

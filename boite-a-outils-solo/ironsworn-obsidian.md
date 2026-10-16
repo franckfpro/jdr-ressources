@@ -7,6 +7,7 @@ tags:
   - journaling
   - numerique
   - ironsworn
+  - reference
 date_creation: 2026-09-29
 ---
 # ironsworn-obsidian
@@ -70,4 +71,8 @@ Plutôt que d'écrire des paragraphes sur les relations entre les factions ou la
 1. Ouvre un **Canvas** Obsidian pour ta campagne.
 2. Glisse tes cartes de PNJ et de lieux sous forme de cartes visuelles.
 3. Relie-les avec des flèches annotées (ex: `[[Kaelen]]` -- *Rivalité* --> `[[Thora]]`).
+
+[[utilitaires]]
+[[references]]
+[[inspirations]]
 

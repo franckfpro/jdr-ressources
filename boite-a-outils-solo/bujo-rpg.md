@@ -6,9 +6,10 @@ tags:
   - solo
   - journaling
   - papier
+  - reference
 date_creation: 2026-09-29
 ---
-# Bujo-RPG
+# bujo-rpg
 
 Le minimalisme est redoutablement efficace pour le jeu de rôle solo car il protège l'immersion : tu restes un joueur actif plutôt que de devenir ton propre greffier. En adoptant cette approche, tu élimines la fatigue de l'écrivain (le fameux *burnout* du jdr solo) et tu maintiens un rythme de jeu fluide.
 
@@ -58,3 +59,6 @@ Le texte linéaire n'est pas toujours le meilleur format pour suivre une aventur
 ```
 
 Cette méthode te permet d'avoir une trace riche et exploitable, tout en divisant ton temps de rédaction par trois.
+
+[[utilitaires]]
+[[references]]

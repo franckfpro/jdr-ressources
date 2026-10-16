@@ -5,6 +5,8 @@ statut: valide
 tags:
   - solo
   - journaling
+  - conseils
+  - reference
 date_creation: 2026-10-06
 ---
 # solo-minimalist
@@ -73,3 +75,6 @@ Tr (Transition): Trouver une autre piste ou fouiller sa chambre.
 * `🎲` Combat Mêlée -> *Victoire*, mais -4 PV.
 * `*` PNJ trouvé : *Aldous* (prisonnier, possède une clé en argent).
 * `!` NOUVELLE PISTE : Trouver la porte correspondant à la clé.
+
+[[utilitaires]]
+[[references]]

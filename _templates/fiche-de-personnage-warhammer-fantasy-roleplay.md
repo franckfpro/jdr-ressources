@@ -1,5 +1,5 @@
 ---
-id: "202609051811"
+id: "{{date:YYYYMMDDHHmm}}"
 type: permanente
 statut: valide
 tags:

@@ -7,6 +7,7 @@ tags:
   - journaling
   - papier
   - numerique
+  - reference
 date_creation: 2026-09-29
 ---
 # types-journaling
@@ -70,3 +71,6 @@ Plusieurs outils en ligne facilite la gestion du journaling.
 	- [RPG Spark](https://play.google.com/store/apps/details?id=com.rpgspark.app)
 	- [RPG Simple Dice](https://play.google.com/store/apps/details?id=com.ccp.rpgsimpledice)
 	- [RPG NPC Generator](https://play.google.com/store/apps/details?id=me.kerooker.rpgcharactergenerator)
+
+[[utilitaires]]
+[[references]]

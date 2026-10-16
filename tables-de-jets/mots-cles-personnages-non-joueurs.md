@@ -5,9 +5,11 @@ statut: valide
 tags:
   - D100
   - inspiration
+  - pnj
+  - personnage
 date_creation: 2026-09-20
 ---
-# Personnages-non-joueurs
+# mots-cles-personnages-non-joueurs
 
 | d100 | PNJ (Archétype et particularité)                              |
 | ---- | ------------------------------------------------------------- |
@@ -111,3 +113,6 @@ date_creation: 2026-09-20
 | 98   | Embaumeur fasciné par l'anatomie des monstres                 |
 | 99   | Reine des mendiants régnant sur les bas-fonds                 |
 | 100  | Voyageur temporel désorienté cherchant son époque             |
+
+[[personnages]]
+[[inspirations]]

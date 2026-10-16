@@ -7,7 +7,9 @@ tags:
   - evenement
 date_creation: 2026-09-05
 ---
-# Événements Aléatoires et Péripéties
+# evenements-aleatoires-et-peripeties
+
+*Événements Aléatoires et Péripéties.*
 
 | Jet (d100) | Description de l'événement                                                                               |
 | :--------: | -------------------------------------------------------------------------------------------------------- |

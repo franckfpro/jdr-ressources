@@ -9,6 +9,8 @@ tags:
 date_creation: 2026-09-23
 ---
 
+# construction-de-personnage-questions-ouvertes
+
 | d100 | Question Ouverte (Open Question)                |
 | ---- | ----------------------------------------------- |
 | 1    | Qui sont mes parents ?                          |
@@ -111,3 +113,7 @@ date_creation: 2026-09-23
 | 98   | Qui m'a donné cette fiole de poison ?           |
 | 99   | Pourquoi l'enfant prophète ne parle plus ?      |
 | 100  | Quelle est la vérité sur ma mort ?              |
+
+[[personnages]]
+[[utilitaires]]
+[[references]]

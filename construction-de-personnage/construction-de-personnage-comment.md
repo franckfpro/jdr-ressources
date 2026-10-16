@@ -9,6 +9,8 @@ tags:
 date_creation: 2026-09-23
 ---
 
+# construction-de-personnage-comment
+
 | d100 | Comment ? (Les Moyens)     |
 | ---- | -------------------------- |
 | 1    | Force brute                |
@@ -111,3 +113,7 @@ date_creation: 2026-09-23
 | 98   | Intervention divine        |
 | 99   | Manipulation du climat     |
 | 100  | Sacrifice personnel        |
+
+[[personnages]]
+[[utilitaires]]
+[[references]]

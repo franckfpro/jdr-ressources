@@ -5,9 +5,11 @@ statut: valide
 tags:
   - D100
   - inspiration
+  - adjectif
+  - description
 date_creation: 2026-09-20
 ---
-# Adjectifs
+# mots-cles-adjectifs
 
 | d100 | Adjectif       |
 | ---- | -------------- |
@@ -111,3 +113,6 @@ date_creation: 2026-09-20
 | 98   | Mystique       |
 | 99   | Dépouillé      |
 | 100  | Intemporel     |
+
+[[inspirations]]
+[[descriptions]]

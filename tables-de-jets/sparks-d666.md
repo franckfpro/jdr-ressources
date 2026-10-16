@@ -3,10 +3,10 @@ id: "202609300708"
 type: permanente
 statut: valide
 tags:
-  - D6
   - D666
   - solo
   - inspiration
+  - oracle
 date_creation: 2026-09-30
 ---
 # sparks-d666
@@ -67,3 +67,6 @@ date_creation: 2026-09-30
 | **63** 4 | Chaîne       | **64** 4 | Porte      | **65** 4 | Couronne   | **66** 4 | Trône                |
 | **63** 5 | Sorcier      | **64** 5 | Mystique   | **65** 5 | Vilain     | **66** 5 | Magie                |
 | **63** 6 | Mur          | **64** 6 | Émietté    | **65** 6 | Toit       | **66** 6 | Donjon               |
+
+[[utilitaires]]
+[[inspirations]]

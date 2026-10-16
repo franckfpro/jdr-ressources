@@ -5,9 +5,12 @@ statut: valide
 tags:
   - D20
   - evenement
+  - solo
 date_creation: 2026-09-05
 ---
-# Tourments
+# evenements-tourments
+
+*Tourments.*
 
 | d20 | Tourment                       | Impact narratif                                                                                   |
 | --- | ------------------------------ | ------------------------------------------------------------------------------------------------- |

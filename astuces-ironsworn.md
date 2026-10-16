@@ -1,14 +1,18 @@
 ---
-id: 202610151141
+id: "202610151141"
+type: permanente
+statut: valide
 tags:
-  - rpg/solo
+  - solo
   - ironsworn
   - conseils
-  - zettelkasten
+  - reference
 date_creation: 2026-10-15
 ---
 
-# Fiche : Top 6 des astuces pour jouer à Ironsworn en solo
+# astuces-ironsworn
+
+*Top 6 des astuces pour jouer à Ironsworn en solo.*
 
 ## 1. Apprendre à échouer
 - Ne pas voir chaque échec ou complication comme le pire scénario immédiat.
@@ -33,3 +37,7 @@ date_creation: 2026-10-15
 ## 6. S'inspirer de ses médias préférés
 - Piocher sans hésiter des concepts, des ambiances ou des personnages dans ses histoires et fictions favorites.
 - Transposer ces influences pour dynamiser et personnaliser son expérience de jeu.
+
+[[utilitaires]]
+[[references]]
+[[inspirations]]

@@ -1,8 +1,7 @@
 ---
-id:
-  "{ date:YYYYMMDDHHmm }":
+id: "{{date:YYYYMMDDHHmm}}"
 type: permanente
-statut: Actif
+statut: valide
 aliases:
   - Nom de votre personnage
 tags:
@@ -10,8 +9,7 @@ tags:
   - personnage
   - template
   - solo
-date_creation:
-  "{ date }":
+date_creation: 2026-09-29
 rang: Juré-fer
 sante: 5
 esprit: 5
@@ -21,7 +19,7 @@ elan_max: 10
 elan_reset: 2
 experience: 0
 ---
-# 🛡️ Fiche de Personnage — Ironsworn
+# fiche-de-personnage-ironsworn
 
 > *"Je le jure sur le fer."* [^1]
 
@@ -57,7 +55,6 @@ experience: 0
 > [!help] Esprit *(Spirit)* `[ Max +5 ]`
 > **[ +5 ]** `|` **[ +4 ]** `|` **[ +3 ]** `|` **[ +2 ]** `|` **[ +1 ]** `|` **[ 0 ]**  
 > *(Mesure votre santé mentale, votre détermination et votre moral)*
-
 > [!example] Provisions *(Supply)* `[ Max +5 ]`
 > **[ +5 ]** `|` **[ +4 ]** `|` **[ +3 ]** `|` **[ +2 ]** `|` **[ +1 ]** `|` **[ 0 ]**  
 > *(Mesure vos ressources, votre équipement de voyage et vos fournitures)*
@@ -158,6 +155,9 @@ experience: 0
 ---
 
 ### Notes de fin
-[^1]: Modèle de fiche traduit et adapté pour Obsidian/Zettelkasten d'après le jeu de rôle *Ironsworn* (par Shawn Tomkin)[cite: 1].
+[^1]: Modèle de fiche traduit et adapté pour Obsidian d'après le jeu de rôle *Ironsworn* (par Shawn Tomkin).
 [^2]: **Réinitialisation de l'Élan (Reset) :** Sa valeur de base est de +2. Chaque Affliction cochée (Condition, Fléau ou Fardeau) diminue la valeur maximale ou la valeur de réinitialisation de votre Élan.
 [^3]: Dans Obsidian, vous pouvez cocher les cases avec `[x]` pour indiquer la progression, ou bien utiliser `[/]` pour marquer une case partiellement remplie.
+
+[[templates]]
+[[personnages]]

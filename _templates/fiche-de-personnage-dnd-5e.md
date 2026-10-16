@@ -1,5 +1,5 @@
 ---
-id: "202609051813"
+id: "{{date:YYYYMMDDHHmm}}"
 type: permanente
 statut: valide
 tags:
@@ -8,7 +8,9 @@ tags:
   - dungeons-and-dragons
 date_creation: 2026-09-05
 ---
-# Fiche de Personnage - Dungeons et Dragons 5e
+# fiche-de-personnage-dnd-5e
+
+*Fiche de personnage — Dungeons et Dragons 5e.*
 
 **Nom du personnage:** [Nom]
 **Classe et niveau:** [Classe] [Niveau]

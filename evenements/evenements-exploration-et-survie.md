@@ -7,7 +7,9 @@ tags:
   - evenement
 date_creation: 2026-09-05
 ---
-# Fiche d'Exploration et Survie (d100)
+# evenements-exploration-et-survie
+
+*Fiche d'Exploration et Survie (d100).*
 
 | Jet    | Catégorie             | Description détaillée de l'événement                                                                                                                         |
 | ------ | --------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------ |

@@ -9,6 +9,8 @@ tags:
 date_creation: 2026-09-23
 ---
 
+# construction-de-personnage-qui
+
 | d100 | Qui ? (Le Personnage)   |
 | ---- | ----------------------- |
 | 1    | Mercenaire amnésique    |
@@ -111,3 +113,7 @@ date_creation: 2026-09-23
 | 98   | Diplomate disgracié     |
 | 99   | Reine des mendiants     |
 | 100  | Avatar divin            |
+
+[[personnages]]
+[[utilitaires]]
+[[references]]

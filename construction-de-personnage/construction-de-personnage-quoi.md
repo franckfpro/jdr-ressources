@@ -9,6 +9,8 @@ tags:
 date_creation: 2026-09-23
 ---
 
+# construction-de-personnage-quoi
+
 | d100 | Quoi ? (L'Objectif)     |
 | ---- | ----------------------- |
 | 1    | Retrouver un artefact   |
@@ -111,3 +113,7 @@ date_creation: 2026-09-23
 | 98   | Geler le temps          |
 | 99   | Atteindre les étoiles   |
 | 100  | Mourir avec gloire      |
+
+[[personnages]]
+[[utilitaires]]
+[[references]]

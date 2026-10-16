@@ -5,9 +5,11 @@ statut: valide
 tags:
   - D100
   - butin
+  - utilitaire
+  - inspiration
 date_creation: 2026-09-05
 ---
-# Butin
+# butin
 
 | d100 | Butin                           | Description                                                                       |
 | :--- | :------------------------------ | :-------------------------------------------------------------------------------- |

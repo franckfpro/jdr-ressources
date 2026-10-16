@@ -5,9 +5,10 @@ statut: valide
 tags:
   - D100
   - inspiration
+  - lieux
 date_creation: 2026-09-20
 ---
-# Lieux
+# mots-cles-lieux
 
 | d100 | Lieu                           |
 | ---- | ------------------------------ |
@@ -111,3 +112,6 @@ date_creation: 2026-09-20
 | 98   | Quai des Brumes                |
 | 99   | Bazar Exotique                 |
 | 100  | Reliquaire Céleste             |
+
+[[inspirations]]
+[[descriptions]]

@@ -5,10 +5,12 @@ statut: valide
 tags:
   - D100
   - inspiration
+  - combinaison
+  - lieux
 date_creation: 2026-09-20
 ---
-# Combinaisons
-## Préfixe
+# mots-cles-combinaisons
+## préfixe
 
 | d100 | Première partie (Racine / Préfixe) |
 | ---- | ---------------------------------- |
@@ -113,7 +115,7 @@ date_creation: 2026-09-20
 | 99   | Abysse                             |
 | 100  | Faille                             |
 
-## Suffixe
+## suffixe
 
 | d100 | Deuxième partie (Suffixe / Complément) |
 | ---- | -------------------------------------- |
@@ -217,3 +219,6 @@ date_creation: 2026-09-20
 | 98   | -val                                   |
 | 99   | -vent                                  |
 | 100  | -ville                                 |
+
+[[inspirations]]
+[[descriptions]]

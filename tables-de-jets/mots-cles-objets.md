@@ -5,9 +5,10 @@ statut: valide
 tags:
   - D100
   - inspiration
+  - objets
 date_creation: 2026-09-20
 ---
-# Objets
+# mots-cles-objets
 
 | d100 | Objet                                       |
 | ---- | ------------------------------------------- |
@@ -111,3 +112,6 @@ date_creation: 2026-09-20
 | 98   | Bouteille de vin rare                       |
 | 99   | Pipe et tabac                               |
 | 100  | Une pierre lisse et parfaitement ronde      |
+
+[[inspirations]]
+[[descriptions]]

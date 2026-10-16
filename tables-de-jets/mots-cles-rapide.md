@@ -8,7 +8,11 @@ tags:
   - inspiration
 date_creation: 2026-09-05
 ---
-# Mots-clés d'Action
+# mots-cles-rapide
+
+*Tables rapides d20 : actions, sujets, descriptions.*
+
+## mots-clés d'action
 
 | d20 | Action (1-10)         | d20 | Action (11-20)         |
 | --- | --------------------- | --- | ---------------------- |
@@ -23,7 +27,7 @@ date_creation: 2026-09-05
 | 9   | Découvrir / Révéler   | 19  | Prendre / Voler        |
 | 10  | Cacher / Dissimuler   | 20  | Abandonner / Laisser   |
 
-# Mots-clés de Sujet (Noms)
+## mots-clés de sujet (noms)
 
 | d20 | Sujet (1-10)        | d20 | Sujet (11-20)       |
 | --- | ------------------- | --- | ------------------- |
@@ -38,7 +42,7 @@ date_creation: 2026-09-05
 | 9   | Message / Lettre    | 19  | Véhicule / Monture  |
 | 10  | Objectif / Mission  | 20  | Nature / Élément    |
 
-# Mots-clés de Description (Adjectifs)
+## mots-clés de description (adjectifs)
 
 | d20 | Descripteur (1-10) | d20 | Descripteur (11-20) |
 | --- | ------------------ | --- | ------------------- |
@@ -52,4 +56,5 @@ date_creation: 2026-09-05
 | 8   | Pur / Sain         | 18  | Sombre / Obscur     |
 | 9   | Caché / Invisible  | 19  | Précieux / Rare     |
 | 10  | Évident / Visible  | 20  | Inutile / Maudit    |
+
 [[inspirations]]

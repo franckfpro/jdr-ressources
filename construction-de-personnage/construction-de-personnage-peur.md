@@ -9,6 +9,8 @@ tags:
 date_creation: 2026-09-23
 ---
 
+# construction-de-personnage-peur
+
 | d100 | Peur (Fear)                |
 | ---- | -------------------------- |
 | 1    | Le feu (Pyrophobie)        |
@@ -111,3 +113,7 @@ date_creation: 2026-09-23
 | 98   | Soi-même                   |
 | 99   | Son propre pouvoir         |
 | 100  | Réussir son objectif       |
+
+[[personnages]]
+[[utilitaires]]
+[[references]]

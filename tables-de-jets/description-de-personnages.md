@@ -1,15 +1,15 @@
 ---
-id: "202609051827"
+id: "202610160001"
 type: permanente
 statut: valide
 tags:
   - D100
-  - inspiration
-  - solo
+  - description
   - personnage
+  - inspiration
 date_creation: 2026-09-05
 ---
-# Description de Personnages (Apparence et Trait)
+# description-de-personnages
 
 | Jet (d100) | Description (Apparence, attitude ou trait distinctif) |
 | :--------: | ----------------------------------------------------- |

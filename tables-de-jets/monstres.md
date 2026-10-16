@@ -5,9 +5,11 @@ statut: valide
 tags:
   - D100
   - monstre
+  - inspiration
+  - reference
 date_creation: 2026-09-05
 ---
-# Monstres
+# monstres
 
 | d100 | Créature                   | Description                                                                            |
 | ---- | -------------------------- | -------------------------------------------------------------------------------------- |

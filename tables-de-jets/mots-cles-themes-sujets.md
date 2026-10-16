@@ -6,9 +6,10 @@ tags:
   - D100
   - inspiration
   - solo
+  - theme
 date_creation: 2026-09-05
 ---
-# Thèmes et Sujets
+# mots-cles-themes-sujets
 
 | d100 | Thème        |
 | :--- | :----------- |
@@ -112,4 +113,5 @@ date_creation: 2026-09-05
 | 98   | Sang         |
 | 99   | Tombeau      |
 | 100  | Village      |
+
 [[inspirations]]

@@ -4,7 +4,10 @@ type: permanente
 statut: valide
 tags:
   - solo
-  - MythicGME
+  - mythic-gme
+  - oracle
+  - D100
+  - reference
 date_creation: 2026-09-29
 ---
 # mythic-game-master-emulator
@@ -45,4 +48,8 @@ Le *Mythic Game Master Emulator* (GME) remplace le meneur de jeu traditionnel en
 * Tenez à jour une liste des Personnages (PNJ) et une liste des Fils Conducteurs (intrigues en cours).
 * Ces listes sont sollicitées lors des événements aléatoires pour ramener un personnage ou une quête spécifique sur le devant de la scène.
 * Pour la prise de notes, votre journal n'a pas besoin d'être un texte rédigé avec soin ; des notes rapides, des mots-clés ou des phrases incomplètes conviennent très bien pour documenter l'aventure sans casser le rythme.
+
+[[utilitaires]]
+[[references]]
+[[inspirations]]
 

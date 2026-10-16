@@ -9,6 +9,8 @@ tags:
 date_creation: 2026-09-23
 ---
 
+# construction-de-personnage-tentation
+
 | d100 | Tentation (L'Échappatoire) |
 | ---- | -------------------------- |
 | 1    | Magie noire facile         |
@@ -111,3 +113,7 @@ date_creation: 2026-09-23
 | 98   | Renier son sang            |
 | 99   | Laisser le chaos régner    |
 | 100  | Devenir l'ennemi final     |
+
+[[personnages]]
+[[utilitaires]]
+[[references]]

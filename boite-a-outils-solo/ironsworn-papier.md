@@ -7,6 +7,7 @@ tags:
   - journaling
   - ironsworn
   - papier
+  - reference
 date_creation: 2026-09-29
 ---
 # ironsworn-papier
@@ -44,7 +45,7 @@ Considère chaque double-page comme une unité de jeu distincte (une scène ou u
 
 
 
-# Bujo-Iro
+## bujo-iro
 
 *Ironsworn* est taillé sur mesure pour le journaling minimaliste : ses mécaniques intégrées (mouvements, pistes de progrès, oracles) font déjà la moitié du travail d'écriture à ta place.
 
@@ -91,4 +92,8 @@ Ne décris pas l'avancement d'une quête dans le texte. Laisse la piste de progr
 1. **En haut à gauche :** Tes jauges actuelles (*Santé, Esprit, Ravitaillement, Impulsion*). Tu effaces/réécris au crayon au fur et meure.
 2. **Colonne de gauche (Marge large) :** Tes pistes de progrès (*Serments*, *Voyages* en cours).
 3. **Zone principale :** Le flux de jeu minimaliste avec le code `++`, `+`, `--`, `⚡`, `☠`.
+
+[[utilitaires]]
+[[references]]
+[[inspirations]]
 

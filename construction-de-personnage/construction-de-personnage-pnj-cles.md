@@ -9,6 +9,8 @@ tags:
 date_creation: 2026-09-23
 ---
 
+# construction-de-personnage-pnj-cles
+
 | d100 | Liens avec les PNJ Clés et Leurs Problèmes |
 | ---- | ------------------------------------------ |
 | 1    | Frère/Sœur endetté(e)                      |
@@ -111,3 +113,7 @@ date_creation: 2026-09-23
 | 98   | Diplomate provoquant des guerres           |
 | 99   | Reine des mendiants malade                 |
 | 100  | Avatar divin mortel                        |
+
+[[personnages]]
+[[utilitaires]]
+[[references]]
