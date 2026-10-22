@@ -154,6 +154,16 @@ experience: 0
 
 ---
 
+## Difficulté
+
+| Modificateur | Strong hit | Weak hit | Miss    |
+| ------------ | ---------- | -------- | ------- |
+| +0           | 9,17 %     | 31,67 %  | 59,17 % |
+| +1           | 15,17 %    | 39,67 %  | 45,17 % |
+| +2           | 23,17 %    | 43,67 %  | 33,17 % |
+| +3           | 33,17 %    | 43,67 %  | 23,17 % |
+| +4           | 45,17 %    | 39,67 %  | 15,17 % |
+
 ### Notes de fin
 [^1]: Modèle de fiche traduit et adapté pour Obsidian d'après le jeu de rôle *Ironsworn* (par Shawn Tomkin).
 [^2]: **Réinitialisation de l'Élan (Reset) :** Sa valeur de base est de +2. Chaque Affliction cochée (Condition, Fléau ou Fardeau) diminue la valeur maximale ou la valeur de réinitialisation de votre Élan.
