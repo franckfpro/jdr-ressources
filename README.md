@@ -9,6 +9,7 @@
 - [generateur-cartes](https://watabou.github.io/index.html)
 - [donjon (multiples generateurs - eng)](https://donjon.bin.sh/)
 - [rolegenerator (personnages - eng)](https://www.rolegenerator.com/)
+- [dndspeak (D100 - eng)](https://www.dndspeak.com/)
 
 ---
 
