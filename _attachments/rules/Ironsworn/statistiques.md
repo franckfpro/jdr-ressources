@@ -33,3 +33,25 @@ Situations types : agir avec compétence, perspicacité ou clairvoyance ; enquê
 ## Règle de choix
 
 Le mouvement Face Danger illustre la logique d'ensemble : la statistique dépend de la manière dont le personnage aborde l'action, et non de l'action elle-même. Franchir un précipice peut relever d'edge (saut agile), d'iron (force brute) ou de wits (trouver un passage sûr). Si l'approche est ambiguë, il convient de choisir la statistique la plus cohérente avec la narration et de rester constant dans les situations similaires.
+
+---
+
+Dans le paysage général du jeu de rôle, plusieurs statistiques classiques n'existent pas en tant que telles dans Ironsworn. La comparaison la plus directe se fait avec les six caractéristiques de D&D (Force, Dextérité, Constitution, Intelligence, Sagesse, Charisme).
+
+## Statistiques partagées ou fusionnées
+
+- Constitution (endurance, résistance) : absorbée par iron et par la jauge de santé. Ironsworn ne la traite pas comme une caractéristique mais comme une ressource.
+- Sagesse et Perception : partiellement couvertes par wits (observation, perspicacité). Aucune statistique dédiée à la vigilance passive ; cela relève du choix narratif et des oracles.
+- Charisme (leadership, présence sociale) : réparti entre heart (empathie, loyauté) et shadow (manipulation).
+
+## Statistiques réellement absentes
+
+1. Chance ou Fortune : présente dans de nombreux systèmes (jet de sauvegarde, point de chance, héroïsme). Ironsworn n'a pas de statistique de chance ; la chance est modélisée par la mécanique de momentum, qui n'est pas une caractéristique du personnage mais une ressource d'action.
+2. Statut social ou Influence : certaines tables (Fate, Savage Worlds avec Reputation, Pendragon avec Glory) mesurent la position du personnage dans le monde. Ironsworn remplace cela par les bonds (liens) et les rangs de serment, qui sont narratifs et non chiffrés de la même manière.
+3. Volonté autonome : fusionnée dans heart avec le courage et l'empathie, alors que des systèmes comme Call of Cthulhu (POW) ou Shadow of the Demon Lord la distinguent nettement.
+4. Richesse ou Ressources : absente comme statistique, remplacée par la jauge de supply.
+5. Apparence : rarement utilisée ailleurs, mais totalement absente d'Ironsworn.
+
+## Remarque de conception
+
+Ces absences sont intentionnelles. Ironsworn étant conçu pour le jeu solo ou coopératif sans meneur de jeu, les statistiques décrivent une approche d'action plutôt qu'une capacité mesurable. Tout ce qui serait habituellement une caractéristique séparée est déplacé vers des jauges (health, spirit, supply, momentum), des ressources narratives (bonds, serments) ou des atouts. Ajouter une statistique telle que la chance ou le statut introduirait une redondance avec ces mécaniques existantes ; cela ne se justifierit que dans un piratage du système vers un genre différent, par exemple un jeu de cour dans lequel l'influence deviendrait centrale.
