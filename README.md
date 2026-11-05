@@ -1,5 +1,6 @@
 # [jdr-ressources](https://franckfpro.github.io/jdr-ressources/)
 
+[liens-internes](liens-internes.md)
 
 - [des en ligne](https://desenligne.com)
 
