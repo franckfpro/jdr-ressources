@@ -33,6 +33,7 @@
 
 ---
 
+- [Wiktionnary](https://www.wiktionary.org/)
 - [Glossaire](https://fr.wikipedia.org/wiki/Glossaire_du_jeu_de_r%C3%B4le)
 
 ---
