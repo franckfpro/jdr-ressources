@@ -112,13 +112,13 @@ Retour en ville
 
 ### 4.4 Les outils qui remplacent l'arbitre
 
-| Fonction | Outil |
-|----------|-------|
-| Arbitrer le monde | Oracle GME (Mythic, SoloOracle) |
-| Rencontres | Tables par région / climat / faction |
-| Sites inédits | Générateur de donjons procédural |
-| Pression | Procédures hexcrawl : torches, rations, repos |
-| Rumeurs | Table de rumeurs avec pourcentage de vérité |
+| Fonction          | Outil                                         |
+| ----------------- | --------------------------------------------- |
+| Arbitrer le monde | Oracle GME (Mythic, SoloOracle)               |
+| Rencontres        | Tables par région / climat / faction          |
+| Sites inédits     | Générateur de donjons procédural              |
+| Pression          | Procédures hexcrawl : torches, rations, repos |
+| Rumeurs           | Table de rumeurs avec pourcentage de vérité   |
 
 ### 4.5 Exemple d'amorce solo — L'Île aux Vents Prisonniers
 
@@ -129,6 +129,8 @@ Retour en ville
 > les vents sont là, captifs, hurlant en tourbillons invisibles autour
 > de l'île. Tant que la source de cette captivité n'est pas identifiée,
 > aucun départ n'est possible.
+
+*Inspiration: LOST, Occult Cressent*
 
 ---
 
@@ -170,13 +172,13 @@ Retour en ville
 
 La carte complète est **générée à l'avance**, mais voilée :
 
-| Anneau | Zone | Danger relatif | Ce qu'on y apprend |
-|--------|------|---------------|--------------------|
-| 1 | Baie, littoral, camp de base | Nul | Survie, premiers repères |
-| 2 | Plaines, forêt côtière | Faible | Présence d'habitants, rumeurs |
-| 3 | Marais, forêt profonde | Moyen | Fragments historiques, culte des vents |
-| 4 | Contreforts, gorges | Élevé | Fausse piste, vue sur le sommet |
-| 5 | Cœur : le site de la source | Critique | La réponse, et le choix final |
+| Anneau | Zone                         | Danger relatif | Ce qu'on y apprend                     |
+| ------ | ---------------------------- | -------------- | -------------------------------------- |
+| 1      | Baie, littoral, camp de base | Nul            | Survie, premiers repères               |
+| 2      | Plaines, forêt côtière       | Faible         | Présence d'habitants, rumeurs          |
+| 3      | Marais, forêt profonde       | Moyen          | Fragments historiques, culte des vents |
+| 4      | Contreforts, gorges          | Élevé          | Fausse piste, vue sur le sommet        |
+| 5      | Cœur : le site de la source  | Critique       | La réponse, et le choix final          |
 
 - Les anneaux ne sont pas des murs : on peut foncer jusqu'à l'anneau
   5 dès le premier jour. Le danger non équilibré fait son office.
@@ -197,16 +199,16 @@ La carte complète est **générée à l'avance**, mais voilée :
 
 #### E. Table de rumeurs (seuil de vérité)
 
-| 1d8 | Rumeur | Vérité |
-|-----|--------|--------|
-| 1 | « Au sommet, une lumière danse les nuits sans lune. » | Vraie |
-| 2 | « Un ermite commande la tempête depuis la gorge. » | Fausse piste |
-| 3 | « Les vieux sont nés ici et n'ont jamais vu un navire partir. » | Vraie |
-| 4 | « Le moulin votif scelle la brume. » | Fausse piste |
-| 5 | « Celui qui s'approche du cœur entend une voix compter. » | Vraie |
-| 6 | « La brume tue ceux qui y dorment trop longtemps. » | Fausse |
-| 7 | « Sous l'île, un tunnel mène à la source. » | À moitié vraie |
-| 8 | « Détruire la pierre au sommet libérera tout. Y compris ce qu'elle retient. » | Vraie — et c'est le prix |
+| 1d8 | Rumeur                                                                        | Vérité                   |
+| --- | ----------------------------------------------------------------------------- | ------------------------ |
+| 1   | « Au sommet, une lumière danse les nuits sans lune. »                         | Vraie                    |
+| 2   | « Un ermite commande la tempête depuis la gorge. »                            | Fausse piste             |
+| 3   | « Les vieux sont nés ici et n'ont jamais vu un navire partir. »               | Vraie                    |
+| 4   | « Le moulin votif scelle la brume. »                                          | Fausse piste             |
+| 5   | « Celui qui s'approche du cœur entend une voix compter. »                     | Vraie                    |
+| 6   | « La brume tue ceux qui y dorment trop longtemps. »                           | Fausse                   |
+| 7   | « Sous l'île, un tunnel mène à la source. »                                   | À moitié vraie           |
+| 8   | « Détruire la pierre au sommet libérera tout. Y compris ce qu'elle retient. » | Vraie — et c'est le prix |
 
 #### F. Procédure de dévoilement de la carte
 
