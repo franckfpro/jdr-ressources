@@ -25,3 +25,4 @@ _attachments/videos/**
 !_attachments/videos/*.md
 !_attachments/videos/**/*.md
 
+_attachments/transcripts/**
