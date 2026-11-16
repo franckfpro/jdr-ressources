@@ -38,6 +38,7 @@
 
 ---
 
+- [MTG random-card - eng](https://gatherer.wizards.com/random-card)
 - [motsaleatoires](https://www.motsaleatoires.com/)
 - [wikipedia random - fre](https://fr.wikipedia.org/wiki/Sp%C3%A9cial:Page_au_hasard)
 - [wikipedia random - eng](https://en.wikipedia.org/wiki/Special:Random)
