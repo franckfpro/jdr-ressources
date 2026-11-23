@@ -20,15 +20,15 @@ Tout générateur uniforme de chiffres alimente n'importe quel dé, à deux cond
 Règle associée : [[Biais humain]] — une personne qui choisit « au hasard » ne le fait jamais uniformément ; tout dispositif doit donc éliminer le choix humain du point de décision (roue, tirage aveugle, instant non choisi).
 
 ## Analyse des pistes envisagées
-   Méthode | Bruit | Équiprobabilité | Disponibilité | Verdict |
- | --- | --- | --- | --- | --- |
- | Plaques d'immatriculation | Nul | Bonne (dernier chiffre) | Uniquement en circulation, débit imprévisible | Source d'appoint, jamais principale |
- | Dés tenus en main | Nul immobile, élevé au secouage | Nulle immobile : aucune entropie sans secousse | Permanente | À écarter |
- | Boîte transparente | Moyen, atténuable | Bonne | Permanente | Viable avec doublure et dés souples |
- | Dice spinner | Nul | Bonne | Permanente | Recommandé (achat) |
- | Lego | Nul à faible | Bonne | Permanente | Recommandé (fabrication) |
- | Cartes numérotées (x10) | Nul | Bonne si coupe et tirage face cachée | Permanente | Fiable mais lent |
- | Plaque ronde et doigt | Nul | Mauvaise (biais humain) | Permanente | À convertir en roulette |
+| Méthode                   | Bruit                           | Équiprobabilité                                | Disponibilité                                 | Verdict                             |
+| ------------------------- | ------------------------------- | ---------------------------------------------- | --------------------------------------------- | ----------------------------------- |
+| Plaques d'immatriculation | Nul                             | Bonne (dernier chiffre)                        | Uniquement en circulation, débit imprévisible | Source d'appoint, jamais principale |
+| Dés tenus en main         | Nul immobile, élevé au secouage | Nulle immobile : aucune entropie sans secousse | Permanente                                    | À écarter                           |
+| Boîte transparente        | Moyen, atténuable               | Bonne                                          | Permanente                                    | Viable avec doublure et dés souples |
+| Dice spinner              | Nul                             | Bonne                                          | Permanente                                    | Recommandé (achat)                  |
+| Lego                      | Nul à faible                    | Bonne                                          | Permanente                                    | Recommandé (fabrication)            |
+| Cartes numérotées (x10)   | Nul                             | Bonne si coupe et tirage face cachée           | Permanente                                    | Fiable mais lent                    |
+| Plaque ronde et doigt     | Nul                             | Mauvaise (biais humain)                        | Permanente                                    | À convertir en roulette             |
 
 ### Détail des pistes
 
@@ -63,13 +63,13 @@ Règle associée : [[Biais humain]] — une personne qui choisit « au hasard »
 - Contention : boîte à couvercle, plateau à rebords, sac de tirage refermable ; un cordon noué au dé évite la perte en déplacement.
 
 ## Choix recommandés
- | Besoin | Solution |
- | --- | --- |
- | Silence total et zéro matériel | Table pré-générée |
- | Silence total et matériel minimal | Pochette de tuiles ou de jetons ; pièces de monnaie |
- | Sensation proche du jet réel | Boîte doublée avec dés en mousse |
- | Rapidité et réutilisation | Dice spinner ou roulette Lego |
- | Improvisation sans préparation | Secondes d'une horloge, pages d'un livre |
+| Besoin                            | Solution                                            |
+| --------------------------------- | --------------------------------------------------- |
+| Silence total et zéro matériel    | Table pré-générée                                   |
+| Silence total et matériel minimal | Pochette de tuiles ou de jetons ; pièces de monnaie |
+| Sensation proche du jet réel      | Boîte doublée avec dés en mousse                    |
+| Rapidité et réutilisation         | Dice spinner ou roulette Lego                       |
+| Improvisation sans préparation    | Secondes d'une horloge, pages d'un livre            |
 
 ## Liens
 
