@@ -263,13 +263,15 @@ Probabilités : La réponse est "oui" si vous obtenez...
 - Presque certain : 90 ou moins
 En cas de correspondance (double), imaginez un résultat extrême ou un rebondissement.
 
-## 10. Imprévu
+## 10. 
+# Imprévus et altérations
 
-À chaque début de session ou tour de scène significatif, faire un jet d'oracle, en adaptant les chances à la situation. En cas de **Oui Critique**, un événement imprévu se produit. Adapter à la narration ou lancer sur le tableau ci-dessous pour inspiration :
+A chaque début de session/tour, faire un jet d'oracle, en adaptant les chances de modification (narratif sous contrôle) à la situation.
+En cas de **Oui Critique**, un événement imprévu se produit. Adapter à la narration ou lancer sur le tableau ci-dessous pour inspiration:
 
-| Jet (d100) | Type d'événement          |
+| Jet (d100) | Type d'imprévu            |
 | ---------- | ------------------------- |
-| 1-7        | Événement distant         |
+| 1-7        | Evénement distant         |
 | 8-28       | Action PNJ                |
 | 29-35      | Introduire un nouveau PNJ |
 | 36-45      | Avancer dans une piste    |
@@ -277,9 +279,21 @@ En cas de correspondance (double), imaginez un résultat extrême ou un rebondis
 | 53-55      | Fermer une piste          |
 | 56-67      | PJ négatif                |
 | 68-75      | PJ positif                |
-| 76-83      | Événement ambigu          |
+| 76-83      | Evénement ambigu          |
 | 84-92      | PNJ positif               |
 | 93-100     | PNJ négatif               |
+En cas de double, la scène sera altérée. Adapter la narration envisagée ou lancer sur le tableau ci-dessous pour inspiration:
+
+| **Jet (d10)** | **Type d'altération**             |
+| ------------- | --------------------------------- |
+| 1             | Retirer un personnage             |
+| 2             | Ajouter un personnage             |
+| 3             | Réduire ou supprimer une activité |
+| 4             | Intensifier une activité          |
+| 5             | Retirer un objet                  |
+| 6             | Ajouter un objet                  |
+| 7-10          | Effectuer deux ajustements        |
+
 
 Usage :
 

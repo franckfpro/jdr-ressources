@@ -57,11 +57,14 @@ La scène commence « de la manière suivante la plus attendue », comme si Myth
 Si l'inspiration manque, deux outils sont prévus :
 
 1. La table d'Ajustement de Scène (Scene Adjustment Table) : un lancer de d10 indique quel élément de la scène attendue se trouve modifié (le lieu, le personnage présent, l'ambiance, etc.).
+![[mythic-scene-adjustement-table.jpg]]
 2. Les tables de Sens (Meaning Tables) : deux mots tirés au hasard, à interpréter pour altérer la scène. L'exemple du livre illustre un lancer « Distrust / Innocent » interprété comme un sol qui trembe par intermittence, suggérant une grotte instable et des risques d'éboulement pour l'exploration à venir ([AnyFlip — Mythic GME 2e](https://anyflip.com/xrdiw/tprp/basic/51-100)).
 
 #### La scène Interrompue
 
 C'est le cas le plus radical : la scène attendue n'a pas lieu. Vous générez alors un Événement Aléatoire (Random Event) par la procédure standard : un lancer de d100 sur la table de Focus d'Événement (qui indique qui ou quoi est concerné : action d'un PNJ, nouveau PNJ, progression d'un fil narratif, etc.), complété par deux paires de mots issus des tables de Sens (Action et Description). L'événement devient le centre de la scène et remplace la scène attendue ([Wisps of Time](https://wispsoftime.com/content/rolling-solo-chapter-6-part-mythic-game-master-emulator/), [AnyFlip — Mythic GME 2e, Variations](https://anyflip.com/xrdiw/tprp/basic/151-200)).
+
+![[mythic-random-event-focus-table.jpg]]
 
 Deux précisions importantes :
 
